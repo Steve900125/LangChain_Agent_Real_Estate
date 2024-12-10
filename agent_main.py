@@ -17,11 +17,10 @@ from functions.postgresql_functions import save_data , get_user_messages
 
 def create_agent():
     
-    
     # Memory with session ID
     memory = MemorySaver()
     # Load model (gpt-4o)
-    model = ChatOpenAI(model="gpt-4o")
+    model = ChatOpenAI(model="gpt-4o",verbose = True)
     # Load tools
     search = TavilySearchAPIWrapper()
     tavily_tool = TavilySearchResults(api_wrapper=search, max_results=2)
@@ -52,6 +51,8 @@ def run_agent(history: Optional[List[BaseMessage]] = None):
 
         # Invoke the agent with the provided session ID
         response = agent.invoke({"messages": [HumanMessage(content=question)]}, config)
+        if response["messages"][-1].tool_calls:
+            print(response["messages"][-1].tool_calls)
         print(response["messages"][-1].content)  # Print the agent's response
 
 
@@ -114,7 +115,9 @@ def test_line_agent():
         answer = run_line_agent(user_id=user_id, question=question, timestamp=timestamp)
         print(f"Agent: {answer}")
 
+
+
 if __name__ == '__main__':
-    test_line_agent()
+    run_agent()
 
     

@@ -1,0 +1,2314 @@
+{
+    "total_questions": 100,
+    "correct_count": 96,
+    "incorrect_count": 4,
+    "accuracy": 96.0,
+    "correct_questions": {
+        "Q1": {
+            "question": "查詢屋，處在臺南市 西港區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "西港區",
+                    "Price": 1000,
+                    "CaseName": "house_721"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "西港區",
+                    "Price": 2000,
+                    "CaseName": "house_722"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "西港區",
+                    "Price": 3000,
+                    "CaseName": "house_723"
+                }
+            ]
+        },
+        "Q2": {
+            "question": "找家，位於澎湖縣 望安鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "澎湖縣",
+                    "District": "望安鄉",
+                    "Price": 1000,
+                    "CaseName": "house_907"
+                },
+                {
+                    "City": "澎湖縣",
+                    "District": "望安鄉",
+                    "Price": 2000,
+                    "CaseName": "house_908"
+                },
+                {
+                    "City": "澎湖縣",
+                    "District": "望安鄉",
+                    "Price": 3000,
+                    "CaseName": "house_909"
+                }
+            ]
+        },
+        "Q3": {
+            "question": "找屋子，坐落彰化縣 埔心鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "彰化縣",
+                    "District": "埔心鄉",
+                    "Price": 1000,
+                    "CaseName": "house_463"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "埔心鄉",
+                    "Price": 2000,
+                    "CaseName": "house_464"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "埔心鄉",
+                    "Price": 3000,
+                    "CaseName": "house_465"
+                }
+            ]
+        },
+        "Q4": {
+            "question": "看房子，地點在屏東縣 獅子鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "獅子鄉",
+                    "Price": 1000,
+                    "CaseName": "house_1021"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "獅子鄉",
+                    "Price": 2000,
+                    "CaseName": "house_1022"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "獅子鄉",
+                    "Price": 3000,
+                    "CaseName": "house_1023"
+                }
+            ]
+        },
+        "Q5": {
+            "question": "找房子，處在屏東縣 高樹鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "高樹鄉",
+                    "Price": 1000,
+                    "CaseName": "house_955"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "高樹鄉",
+                    "Price": 2000,
+                    "CaseName": "house_956"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "高樹鄉",
+                    "Price": 3000,
+                    "CaseName": "house_957"
+                }
+            ]
+        },
+        "Q6": {
+            "question": "我想查看房屋，位於臺中市 南屯區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺中市",
+                    "District": "南屯區",
+                    "Price": 1000,
+                    "CaseName": "house_361"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "南屯區",
+                    "Price": 2000,
+                    "CaseName": "house_362"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "南屯區",
+                    "Price": 3000,
+                    "CaseName": "house_363"
+                }
+            ]
+        },
+        "Q7": {
+            "question": "查詢房子，坐落嘉義縣 梅山鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "嘉義縣",
+                    "District": "梅山鄉",
+                    "Price": 1000,
+                    "CaseName": "house_553"
+                },
+                {
+                    "City": "嘉義縣",
+                    "District": "梅山鄉",
+                    "Price": 2000,
+                    "CaseName": "house_554"
+                },
+                {
+                    "City": "嘉義縣",
+                    "District": "梅山鄉",
+                    "Price": 3000,
+                    "CaseName": "house_555"
+                }
+            ]
+        },
+        "Q8": {
+            "question": "查詢不動產，地點在新北市 石門區 金額不限。",
+            "answer": [
+                {
+                    "City": "新北市",
+                    "District": "石門區",
+                    "Price": 1000,
+                    "CaseName": "house_142"
+                },
+                {
+                    "City": "新北市",
+                    "District": "石門區",
+                    "Price": 2000,
+                    "CaseName": "house_143"
+                },
+                {
+                    "City": "新北市",
+                    "District": "石門區",
+                    "Price": 3000,
+                    "CaseName": "house_144"
+                }
+            ]
+        },
+        "Q9": {
+            "question": "有沒有房屋，處在嘉義縣 竹崎鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "嘉義縣",
+                    "District": "竹崎鄉",
+                    "Price": 1000,
+                    "CaseName": "house_556"
+                },
+                {
+                    "City": "嘉義縣",
+                    "District": "竹崎鄉",
+                    "Price": 2000,
+                    "CaseName": "house_557"
+                },
+                {
+                    "City": "嘉義縣",
+                    "District": "竹崎鄉",
+                    "Price": 3000,
+                    "CaseName": "house_558"
+                }
+            ]
+        },
+        "Q10": {
+            "question": "看房屋，地點在新北市 淡水區 金額不限。",
+            "answer": [
+                {
+                    "City": "新北市",
+                    "District": "淡水區",
+                    "Price": 1000,
+                    "CaseName": "house_136"
+                },
+                {
+                    "City": "新北市",
+                    "District": "淡水區",
+                    "Price": 2000,
+                    "CaseName": "house_137"
+                },
+                {
+                    "City": "新北市",
+                    "District": "淡水區",
+                    "Price": 3000,
+                    "CaseName": "house_138"
+                }
+            ]
+        },
+        "Q11": {
+            "question": "我想查看房子，位於桃園市 桃園區 金額不限。",
+            "answer": [
+                {
+                    "City": "桃園市",
+                    "District": "桃園區",
+                    "Price": 1000,
+                    "CaseName": "house_265"
+                },
+                {
+                    "City": "桃園市",
+                    "District": "桃園區",
+                    "Price": 2000,
+                    "CaseName": "house_266"
+                },
+                {
+                    "City": "桃園市",
+                    "District": "桃園區",
+                    "Price": 3000,
+                    "CaseName": "house_267"
+                }
+            ]
+        },
+        "Q12": {
+            "question": "看家，地點在臺南市 白河區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "白河區",
+                    "Price": 1000,
+                    "CaseName": "house_742"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "白河區",
+                    "Price": 2000,
+                    "CaseName": "house_743"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "白河區",
+                    "Price": 3000,
+                    "CaseName": "house_744"
+                }
+            ]
+        },
+        "Q13": {
+            "question": "看屋子，處在桃園市 平鎮區 金額不限。",
+            "answer": [
+                {
+                    "City": "桃園市",
+                    "District": "平鎮區",
+                    "Price": 1000,
+                    "CaseName": "house_250"
+                },
+                {
+                    "City": "桃園市",
+                    "District": "平鎮區",
+                    "Price": 2000,
+                    "CaseName": "house_251"
+                },
+                {
+                    "City": "桃園市",
+                    "District": "平鎮區",
+                    "Price": 3000,
+                    "CaseName": "house_252"
+                }
+            ]
+        },
+        "Q14": {
+            "question": "我要找家，處在新北市 中和區 金額不限。",
+            "answer": [
+                {
+                    "City": "新北市",
+                    "District": "中和區",
+                    "Price": 1000,
+                    "CaseName": "house_100"
+                },
+                {
+                    "City": "新北市",
+                    "District": "中和區",
+                    "Price": 2000,
+                    "CaseName": "house_101"
+                },
+                {
+                    "City": "新北市",
+                    "District": "中和區",
+                    "Price": 3000,
+                    "CaseName": "house_102"
+                }
+            ]
+        },
+        "Q15": {
+            "question": "查詢房屋，地點在臺北市 內湖區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺北市",
+                    "District": "內湖區",
+                    "Price": 1000,
+                    "CaseName": "house_28"
+                },
+                {
+                    "City": "臺北市",
+                    "District": "內湖區",
+                    "Price": 2000,
+                    "CaseName": "house_29"
+                },
+                {
+                    "City": "臺北市",
+                    "District": "內湖區",
+                    "Price": 3000,
+                    "CaseName": "house_30"
+                }
+            ]
+        },
+        "Q16": {
+            "question": "我想查看家，坐落彰化縣 田尾鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "彰化縣",
+                    "District": "田尾鄉",
+                    "Price": 1000,
+                    "CaseName": "house_481"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "田尾鄉",
+                    "Price": 2000,
+                    "CaseName": "house_482"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "田尾鄉",
+                    "Price": 3000,
+                    "CaseName": "house_483"
+                }
+            ]
+        },
+        "Q17": {
+            "question": "我要找屋，位於高雄市 岡山區 金額不限。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "岡山區",
+                    "Price": 1000,
+                    "CaseName": "house_820"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "岡山區",
+                    "Price": 2000,
+                    "CaseName": "house_821"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "岡山區",
+                    "Price": 3000,
+                    "CaseName": "house_822"
+                }
+            ]
+        },
+        "Q18": {
+            "question": "我想查看房子，坐落臺南市 六甲區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "六甲區",
+                    "Price": 1000,
+                    "CaseName": "house_748"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "六甲區",
+                    "Price": 2000,
+                    "CaseName": "house_749"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "六甲區",
+                    "Price": 3000,
+                    "CaseName": "house_750"
+                }
+            ]
+        },
+        "Q19": {
+            "question": "找屋子，位於嘉義縣 大埔鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "嘉義縣",
+                    "District": "大埔鄉",
+                    "Price": 1000,
+                    "CaseName": "house_565"
+                },
+                {
+                    "City": "嘉義縣",
+                    "District": "大埔鄉",
+                    "Price": 2000,
+                    "CaseName": "house_566"
+                },
+                {
+                    "City": "嘉義縣",
+                    "District": "大埔鄉",
+                    "Price": 3000,
+                    "CaseName": "house_567"
+                }
+            ]
+        },
+        "Q20": {
+            "question": "看家，坐落花蓮縣 吉安鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "花蓮縣",
+                    "District": "吉安鄉",
+                    "Price": 1000,
+                    "CaseName": "house_1093"
+                },
+                {
+                    "City": "花蓮縣",
+                    "District": "吉安鄉",
+                    "Price": 2000,
+                    "CaseName": "house_1094"
+                },
+                {
+                    "City": "花蓮縣",
+                    "District": "吉安鄉",
+                    "Price": 3000,
+                    "CaseName": "house_1095"
+                }
+            ]
+        },
+        "Q22": {
+            "question": "查詢屋子，處在嘉義縣 朴子市 金額不限。",
+            "answer": [
+                {
+                    "City": "嘉義縣",
+                    "District": "朴子市",
+                    "Price": 1000,
+                    "CaseName": "house_577"
+                },
+                {
+                    "City": "嘉義縣",
+                    "District": "朴子市",
+                    "Price": 2000,
+                    "CaseName": "house_578"
+                },
+                {
+                    "City": "嘉義縣",
+                    "District": "朴子市",
+                    "Price": 3000,
+                    "CaseName": "house_579"
+                }
+            ]
+        },
+        "Q23": {
+            "question": "找不動產，坐落高雄市 前鎮區 金額不限。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "前鎮區",
+                    "Price": 1000,
+                    "CaseName": "house_793"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "前鎮區",
+                    "Price": 2000,
+                    "CaseName": "house_794"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "前鎮區",
+                    "Price": 3000,
+                    "CaseName": "house_795"
+                }
+            ]
+        },
+        "Q24": {
+            "question": "找房屋，處在桃園市 桃園區 金額不限。",
+            "answer": [
+                {
+                    "City": "桃園市",
+                    "District": "桃園區",
+                    "Price": 1000,
+                    "CaseName": "house_265"
+                },
+                {
+                    "City": "桃園市",
+                    "District": "桃園區",
+                    "Price": 2000,
+                    "CaseName": "house_266"
+                },
+                {
+                    "City": "桃園市",
+                    "District": "桃園區",
+                    "Price": 3000,
+                    "CaseName": "house_267"
+                }
+            ]
+        },
+        "Q25": {
+            "question": "查詢不動產，處在南海島 南沙群島 金額不限。",
+            "answer": [
+                {
+                    "City": "南海島",
+                    "District": "南沙群島",
+                    "Price": 1000,
+                    "CaseName": "house_898"
+                },
+                {
+                    "City": "南海島",
+                    "District": "南沙群島",
+                    "Price": 2000,
+                    "CaseName": "house_899"
+                },
+                {
+                    "City": "南海島",
+                    "District": "南沙群島",
+                    "Price": 3000,
+                    "CaseName": "house_900"
+                }
+            ]
+        },
+        "Q26": {
+            "question": "我要找房屋，處在臺南市 龍崎區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "龍崎區",
+                    "Price": 1000,
+                    "CaseName": "house_709"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "龍崎區",
+                    "Price": 2000,
+                    "CaseName": "house_710"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "龍崎區",
+                    "Price": 3000,
+                    "CaseName": "house_711"
+                }
+            ]
+        },
+        "Q27": {
+            "question": "我想查看房子，坐落彰化縣 二林鎮 金額不限。",
+            "answer": [
+                {
+                    "City": "彰化縣",
+                    "District": "二林鎮",
+                    "Price": 1000,
+                    "CaseName": "house_493"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "二林鎮",
+                    "Price": 2000,
+                    "CaseName": "house_494"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "二林鎮",
+                    "Price": 3000,
+                    "CaseName": "house_495"
+                }
+            ]
+        },
+        "Q29": {
+            "question": "有沒有家，地點在花蓮縣 瑞穗鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "花蓮縣",
+                    "District": "瑞穗鄉",
+                    "Price": 1000,
+                    "CaseName": "house_1108"
+                },
+                {
+                    "City": "花蓮縣",
+                    "District": "瑞穗鄉",
+                    "Price": 2000,
+                    "CaseName": "house_1109"
+                },
+                {
+                    "City": "花蓮縣",
+                    "District": "瑞穗鄉",
+                    "Price": 3000,
+                    "CaseName": "house_1110"
+                }
+            ]
+        },
+        "Q30": {
+            "question": "查詢屋，坐落屏東縣 鹽埔鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "鹽埔鄉",
+                    "Price": 1000,
+                    "CaseName": "house_958"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "鹽埔鄉",
+                    "Price": 2000,
+                    "CaseName": "house_959"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "鹽埔鄉",
+                    "Price": 3000,
+                    "CaseName": "house_960"
+                }
+            ]
+        },
+        "Q31": {
+            "question": "查詢屋子，處在新竹縣 竹北市 金額不限。",
+            "answer": [
+                {
+                    "City": "新竹縣",
+                    "District": "竹北市",
+                    "Price": 1000,
+                    "CaseName": "house_211"
+                },
+                {
+                    "City": "新竹縣",
+                    "District": "竹北市",
+                    "Price": 2000,
+                    "CaseName": "house_212"
+                },
+                {
+                    "City": "新竹縣",
+                    "District": "竹北市",
+                    "Price": 3000,
+                    "CaseName": "house_213"
+                }
+            ]
+        },
+        "Q32": {
+            "question": "找房子，位於屏東縣 新埤鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "新埤鄉",
+                    "Price": 1000,
+                    "CaseName": "house_991"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "新埤鄉",
+                    "Price": 2000,
+                    "CaseName": "house_992"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "新埤鄉",
+                    "Price": 3000,
+                    "CaseName": "house_993"
+                }
+            ]
+        },
+        "Q33": {
+            "question": "查詢不動產，位於彰化縣 線西鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "彰化縣",
+                    "District": "線西鄉",
+                    "Price": 1000,
+                    "CaseName": "house_445"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "線西鄉",
+                    "Price": 2000,
+                    "CaseName": "house_446"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "線西鄉",
+                    "Price": 3000,
+                    "CaseName": "house_447"
+                }
+            ]
+        },
+        "Q34": {
+            "question": "看房屋，地點在新北市 平溪區 金額不限。",
+            "answer": [
+                {
+                    "City": "新北市",
+                    "District": "平溪區",
+                    "Price": 1000,
+                    "CaseName": "house_79"
+                },
+                {
+                    "City": "新北市",
+                    "District": "平溪區",
+                    "Price": 2000,
+                    "CaseName": "house_80"
+                },
+                {
+                    "City": "新北市",
+                    "District": "平溪區",
+                    "Price": 3000,
+                    "CaseName": "house_81"
+                }
+            ]
+        },
+        "Q35": {
+            "question": "看不動產，地點在基隆市 仁愛區 金額不限。",
+            "answer": [
+                {
+                    "City": "基隆市",
+                    "District": "仁愛區",
+                    "Price": 1000,
+                    "CaseName": "house_37"
+                },
+                {
+                    "City": "基隆市",
+                    "District": "仁愛區",
+                    "Price": 2000,
+                    "CaseName": "house_38"
+                },
+                {
+                    "City": "基隆市",
+                    "District": "仁愛區",
+                    "Price": 3000,
+                    "CaseName": "house_39"
+                }
+            ]
+        },
+        "Q36": {
+            "question": "找屋，坐落花蓮縣 壽豐鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "花蓮縣",
+                    "District": "壽豐鄉",
+                    "Price": 1000,
+                    "CaseName": "house_1096"
+                },
+                {
+                    "City": "花蓮縣",
+                    "District": "壽豐鄉",
+                    "Price": 2000,
+                    "CaseName": "house_1097"
+                },
+                {
+                    "City": "花蓮縣",
+                    "District": "壽豐鄉",
+                    "Price": 3000,
+                    "CaseName": "house_1098"
+                }
+            ]
+        },
+        "Q37": {
+            "question": "看家，處在苗栗縣 後龍鎮 金額不限。",
+            "answer": [
+                {
+                    "City": "苗栗縣",
+                    "District": "後龍鎮",
+                    "Price": 1000,
+                    "CaseName": "house_301"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "後龍鎮",
+                    "Price": 2000,
+                    "CaseName": "house_302"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "後龍鎮",
+                    "Price": 3000,
+                    "CaseName": "house_303"
+                }
+            ]
+        },
+        "Q38": {
+            "question": "查詢不動產，位於苗栗縣 頭屋鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "苗栗縣",
+                    "District": "頭屋鄉",
+                    "Price": 1000,
+                    "CaseName": "house_316"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "頭屋鄉",
+                    "Price": 2000,
+                    "CaseName": "house_317"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "頭屋鄉",
+                    "Price": 3000,
+                    "CaseName": "house_318"
+                }
+            ]
+        },
+        "Q39": {
+            "question": "我想查看屋，處在臺南市 新化區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "新化區",
+                    "Price": 1000,
+                    "CaseName": "house_688"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "新化區",
+                    "Price": 2000,
+                    "CaseName": "house_689"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "新化區",
+                    "Price": 3000,
+                    "CaseName": "house_690"
+                }
+            ]
+        },
+        "Q40": {
+            "question": "有沒有房子，處在基隆市 暖暖區 金額不限。",
+            "answer": [
+                {
+                    "City": "基隆市",
+                    "District": "暖暖區",
+                    "Price": 1000,
+                    "CaseName": "house_52"
+                },
+                {
+                    "City": "基隆市",
+                    "District": "暖暖區",
+                    "Price": 2000,
+                    "CaseName": "house_53"
+                },
+                {
+                    "City": "基隆市",
+                    "District": "暖暖區",
+                    "Price": 3000,
+                    "CaseName": "house_54"
+                }
+            ]
+        },
+        "Q41": {
+            "question": "看房屋，坐落臺中市 烏日區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺中市",
+                    "District": "烏日區",
+                    "Price": 1000,
+                    "CaseName": "house_373"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "烏日區",
+                    "Price": 2000,
+                    "CaseName": "house_374"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "烏日區",
+                    "Price": 3000,
+                    "CaseName": "house_375"
+                }
+            ]
+        },
+        "Q42": {
+            "question": "找屋子，地點在苗栗縣 銅鑼鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "苗栗縣",
+                    "District": "銅鑼鄉",
+                    "Price": 1000,
+                    "CaseName": "house_328"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "銅鑼鄉",
+                    "Price": 2000,
+                    "CaseName": "house_329"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "銅鑼鄉",
+                    "Price": 3000,
+                    "CaseName": "house_330"
+                }
+            ]
+        },
+        "Q44": {
+            "question": "我想查看不動產，地點在新北市 貢寮區 金額不限。",
+            "answer": [
+                {
+                    "City": "新北市",
+                    "District": "貢寮區",
+                    "Price": 1000,
+                    "CaseName": "house_85"
+                },
+                {
+                    "City": "新北市",
+                    "District": "貢寮區",
+                    "Price": 2000,
+                    "CaseName": "house_86"
+                },
+                {
+                    "City": "新北市",
+                    "District": "貢寮區",
+                    "Price": 3000,
+                    "CaseName": "house_87"
+                }
+            ]
+        },
+        "Q45": {
+            "question": "我要找屋子，處在臺南市 北門區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "北門區",
+                    "Price": 1000,
+                    "CaseName": "house_733"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "北門區",
+                    "Price": 2000,
+                    "CaseName": "house_734"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "北門區",
+                    "Price": 3000,
+                    "CaseName": "house_735"
+                }
+            ]
+        },
+        "Q46": {
+            "question": "看家，地點在臺南市 安平區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "安平區",
+                    "Price": 1000,
+                    "CaseName": "house_676"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "安平區",
+                    "Price": 2000,
+                    "CaseName": "house_677"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "安平區",
+                    "Price": 3000,
+                    "CaseName": "house_678"
+                }
+            ]
+        },
+        "Q47": {
+            "question": "我想查看屋子，位於金門縣 金湖鎮 金額不限。",
+            "answer": [
+                {
+                    "City": "金門縣",
+                    "District": "金湖鎮",
+                    "Price": 1000,
+                    "CaseName": "house_922"
+                },
+                {
+                    "City": "金門縣",
+                    "District": "金湖鎮",
+                    "Price": 2000,
+                    "CaseName": "house_923"
+                },
+                {
+                    "City": "金門縣",
+                    "District": "金湖鎮",
+                    "Price": 3000,
+                    "CaseName": "house_924"
+                }
+            ]
+        },
+        "Q48": {
+            "question": "我想查看屋子，處在南投縣 水里鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "南投縣",
+                    "District": "水里鄉",
+                    "Price": 1000,
+                    "CaseName": "house_529"
+                },
+                {
+                    "City": "南投縣",
+                    "District": "水里鄉",
+                    "Price": 2000,
+                    "CaseName": "house_530"
+                },
+                {
+                    "City": "南投縣",
+                    "District": "水里鄉",
+                    "Price": 3000,
+                    "CaseName": "house_531"
+                }
+            ]
+        },
+        "Q49": {
+            "question": "找家，處在高雄市 旗津區 金額不限。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "旗津區",
+                    "Price": 1000,
+                    "CaseName": "house_790"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "旗津區",
+                    "Price": 2000,
+                    "CaseName": "house_791"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "旗津區",
+                    "Price": 3000,
+                    "CaseName": "house_792"
+                }
+            ]
+        },
+        "Q50": {
+            "question": "查詢不動產，位於雲林縣 西螺鎮 金額不限。",
+            "answer": [
+                {
+                    "City": "雲林縣",
+                    "District": "西螺鎮",
+                    "Price": 1000,
+                    "CaseName": "house_643"
+                },
+                {
+                    "City": "雲林縣",
+                    "District": "西螺鎮",
+                    "Price": 2000,
+                    "CaseName": "house_644"
+                },
+                {
+                    "City": "雲林縣",
+                    "District": "西螺鎮",
+                    "Price": 3000,
+                    "CaseName": "house_645"
+                }
+            ]
+        },
+        "Q51": {
+            "question": "查詢房屋，地點在宜蘭縣 壯圍鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "宜蘭縣",
+                    "District": "壯圍鄉",
+                    "Price": 1000,
+                    "CaseName": "house_160"
+                },
+                {
+                    "City": "宜蘭縣",
+                    "District": "壯圍鄉",
+                    "Price": 2000,
+                    "CaseName": "house_161"
+                },
+                {
+                    "City": "宜蘭縣",
+                    "District": "壯圍鄉",
+                    "Price": 3000,
+                    "CaseName": "house_162"
+                }
+            ]
+        },
+        "Q52": {
+            "question": "查詢屋子，坐落雲林縣 北港鎮 金額不限。",
+            "answer": [
+                {
+                    "City": "雲林縣",
+                    "District": "北港鎮",
+                    "Price": 1000,
+                    "CaseName": "house_649"
+                },
+                {
+                    "City": "雲林縣",
+                    "District": "北港鎮",
+                    "Price": 2000,
+                    "CaseName": "house_650"
+                },
+                {
+                    "City": "雲林縣",
+                    "District": "北港鎮",
+                    "Price": 3000,
+                    "CaseName": "house_651"
+                }
+            ]
+        },
+        "Q53": {
+            "question": "有沒有房屋，地點在基隆市 仁愛區 金額不限。",
+            "answer": [
+                {
+                    "City": "基隆市",
+                    "District": "仁愛區",
+                    "Price": 1000,
+                    "CaseName": "house_37"
+                },
+                {
+                    "City": "基隆市",
+                    "District": "仁愛區",
+                    "Price": 2000,
+                    "CaseName": "house_38"
+                },
+                {
+                    "City": "基隆市",
+                    "District": "仁愛區",
+                    "Price": 3000,
+                    "CaseName": "house_39"
+                }
+            ]
+        },
+        "Q54": {
+            "question": "有沒有屋子，坐落金門縣 金寧鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "金門縣",
+                    "District": "金寧鄉",
+                    "Price": 1000,
+                    "CaseName": "house_925"
+                },
+                {
+                    "City": "金門縣",
+                    "District": "金寧鄉",
+                    "Price": 2000,
+                    "CaseName": "house_926"
+                },
+                {
+                    "City": "金門縣",
+                    "District": "金寧鄉",
+                    "Price": 3000,
+                    "CaseName": "house_927"
+                }
+            ]
+        },
+        "Q55": {
+            "question": "查詢不動產，坐落新北市 淡水區 金額不限。",
+            "answer": [
+                {
+                    "City": "新北市",
+                    "District": "淡水區",
+                    "Price": 1000,
+                    "CaseName": "house_136"
+                },
+                {
+                    "City": "新北市",
+                    "District": "淡水區",
+                    "Price": 2000,
+                    "CaseName": "house_137"
+                },
+                {
+                    "City": "新北市",
+                    "District": "淡水區",
+                    "Price": 3000,
+                    "CaseName": "house_138"
+                }
+            ]
+        },
+        "Q56": {
+            "question": "有沒有房屋，坐落新竹縣 峨眉鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "新竹縣",
+                    "District": "峨眉鄉",
+                    "Price": 1000,
+                    "CaseName": "house_244"
+                },
+                {
+                    "City": "新竹縣",
+                    "District": "峨眉鄉",
+                    "Price": 2000,
+                    "CaseName": "house_245"
+                },
+                {
+                    "City": "新竹縣",
+                    "District": "峨眉鄉",
+                    "Price": 3000,
+                    "CaseName": "house_246"
+                }
+            ]
+        },
+        "Q57": {
+            "question": "找屋，坐落屏東縣 瑪家鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "瑪家鄉",
+                    "Price": 1000,
+                    "CaseName": "house_946"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "瑪家鄉",
+                    "Price": 2000,
+                    "CaseName": "house_947"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "瑪家鄉",
+                    "Price": 3000,
+                    "CaseName": "house_948"
+                }
+            ]
+        },
+        "Q58": {
+            "question": "我要找屋子，處在臺中市 西區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺中市",
+                    "District": "西區",
+                    "Price": 1000,
+                    "CaseName": "house_349"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "西區",
+                    "Price": 2000,
+                    "CaseName": "house_350"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "西區",
+                    "Price": 3000,
+                    "CaseName": "house_351"
+                }
+            ]
+        },
+        "Q59": {
+            "question": "我要找房屋，處在金門縣 金湖鎮 金額不限。",
+            "answer": [
+                {
+                    "City": "金門縣",
+                    "District": "金湖鎮",
+                    "Price": 1000,
+                    "CaseName": "house_922"
+                },
+                {
+                    "City": "金門縣",
+                    "District": "金湖鎮",
+                    "Price": 2000,
+                    "CaseName": "house_923"
+                },
+                {
+                    "City": "金門縣",
+                    "District": "金湖鎮",
+                    "Price": 3000,
+                    "CaseName": "house_924"
+                }
+            ]
+        },
+        "Q60": {
+            "question": "我要找不動產，坐落澎湖縣 望安鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "澎湖縣",
+                    "District": "望安鄉",
+                    "Price": 1000,
+                    "CaseName": "house_907"
+                },
+                {
+                    "City": "澎湖縣",
+                    "District": "望安鄉",
+                    "Price": 2000,
+                    "CaseName": "house_908"
+                },
+                {
+                    "City": "澎湖縣",
+                    "District": "望安鄉",
+                    "Price": 3000,
+                    "CaseName": "house_909"
+                }
+            ]
+        },
+        "Q61": {
+            "question": "找家，地點在彰化縣 二林鎮 金額不限。",
+            "answer": [
+                {
+                    "City": "彰化縣",
+                    "District": "二林鎮",
+                    "Price": 1000,
+                    "CaseName": "house_493"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "二林鎮",
+                    "Price": 2000,
+                    "CaseName": "house_494"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "二林鎮",
+                    "Price": 3000,
+                    "CaseName": "house_495"
+                }
+            ]
+        },
+        "Q62": {
+            "question": "看房屋，位於嘉義縣 水上鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "嘉義縣",
+                    "District": "水上鄉",
+                    "Price": 1000,
+                    "CaseName": "house_568"
+                },
+                {
+                    "City": "嘉義縣",
+                    "District": "水上鄉",
+                    "Price": 2000,
+                    "CaseName": "house_569"
+                },
+                {
+                    "City": "嘉義縣",
+                    "District": "水上鄉",
+                    "Price": 3000,
+                    "CaseName": "house_570"
+                }
+            ]
+        },
+        "Q63": {
+            "question": "我要找房子，地點在雲林縣 斗六市 金額不限。",
+            "answer": [
+                {
+                    "City": "雲林縣",
+                    "District": "斗六市",
+                    "Price": 1000,
+                    "CaseName": "house_631"
+                },
+                {
+                    "City": "雲林縣",
+                    "District": "斗六市",
+                    "Price": 2000,
+                    "CaseName": "house_632"
+                },
+                {
+                    "City": "雲林縣",
+                    "District": "斗六市",
+                    "Price": 3000,
+                    "CaseName": "house_633"
+                }
+            ]
+        },
+        "Q64": {
+            "question": "查詢家，地點在臺中市 沙鹿區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺中市",
+                    "District": "沙鹿區",
+                    "Price": 1000,
+                    "CaseName": "house_406"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "沙鹿區",
+                    "Price": 2000,
+                    "CaseName": "house_407"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "沙鹿區",
+                    "Price": 3000,
+                    "CaseName": "house_408"
+                }
+            ]
+        },
+        "Q65": {
+            "question": "有沒有不動產，處在臺東縣 臺東市 金額不限。",
+            "answer": [
+                {
+                    "City": "臺東縣",
+                    "District": "臺東市",
+                    "Price": 1000,
+                    "CaseName": "house_1036"
+                },
+                {
+                    "City": "臺東縣",
+                    "District": "臺東市",
+                    "Price": 2000,
+                    "CaseName": "house_1037"
+                },
+                {
+                    "City": "臺東縣",
+                    "District": "臺東市",
+                    "Price": 3000,
+                    "CaseName": "house_1038"
+                }
+            ]
+        },
+        "Q66": {
+            "question": "查詢房屋，坐落高雄市 內門區 金額不限。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "內門區",
+                    "Price": 1000,
+                    "CaseName": "house_874"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "內門區",
+                    "Price": 2000,
+                    "CaseName": "house_875"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "內門區",
+                    "Price": 3000,
+                    "CaseName": "house_876"
+                }
+            ]
+        },
+        "Q67": {
+            "question": "查詢屋，處在臺中市 大安區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺中市",
+                    "District": "大安區",
+                    "Price": 1000,
+                    "CaseName": "house_424"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "大安區",
+                    "Price": 2000,
+                    "CaseName": "house_425"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "大安區",
+                    "Price": 3000,
+                    "CaseName": "house_426"
+                }
+            ]
+        },
+        "Q68": {
+            "question": "我想查看房子，坐落臺南市 山上區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "山上區",
+                    "Price": 1000,
+                    "CaseName": "house_769"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "山上區",
+                    "Price": 2000,
+                    "CaseName": "house_770"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "山上區",
+                    "Price": 3000,
+                    "CaseName": "house_771"
+                }
+            ]
+        },
+        "Q69": {
+            "question": "找屋子，位於高雄市 左營區 金額不限。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "左營區",
+                    "Price": 1000,
+                    "CaseName": "house_805"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "左營區",
+                    "Price": 2000,
+                    "CaseName": "house_806"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "左營區",
+                    "Price": 3000,
+                    "CaseName": "house_807"
+                }
+            ]
+        },
+        "Q70": {
+            "question": "我想查看不動產，位於屏東縣 佳冬鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "佳冬鄉",
+                    "Price": 1000,
+                    "CaseName": "house_1006"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "佳冬鄉",
+                    "Price": 2000,
+                    "CaseName": "house_1007"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "佳冬鄉",
+                    "Price": 3000,
+                    "CaseName": "house_1008"
+                }
+            ]
+        },
+        "Q71": {
+            "question": "我想查看房屋，處在花蓮縣 秀林鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "花蓮縣",
+                    "District": "秀林鄉",
+                    "Price": 1000,
+                    "CaseName": "house_1090"
+                },
+                {
+                    "City": "花蓮縣",
+                    "District": "秀林鄉",
+                    "Price": 2000,
+                    "CaseName": "house_1091"
+                },
+                {
+                    "City": "花蓮縣",
+                    "District": "秀林鄉",
+                    "Price": 3000,
+                    "CaseName": "house_1092"
+                }
+            ]
+        },
+        "Q72": {
+            "question": "有沒有屋子，處在高雄市 阿蓮區 金額不限。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "阿蓮區",
+                    "Price": 1000,
+                    "CaseName": "house_826"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "阿蓮區",
+                    "Price": 2000,
+                    "CaseName": "house_827"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "阿蓮區",
+                    "Price": 3000,
+                    "CaseName": "house_828"
+                }
+            ]
+        },
+        "Q73": {
+            "question": "看不動產，處在雲林縣 東勢鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "雲林縣",
+                    "District": "東勢鄉",
+                    "Price": 1000,
+                    "CaseName": "house_619"
+                },
+                {
+                    "City": "雲林縣",
+                    "District": "東勢鄉",
+                    "Price": 2000,
+                    "CaseName": "house_620"
+                },
+                {
+                    "City": "雲林縣",
+                    "District": "東勢鄉",
+                    "Price": 3000,
+                    "CaseName": "house_621"
+                }
+            ]
+        },
+        "Q74": {
+            "question": "找屋，地點在臺南市 柳營區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "柳營區",
+                    "Price": 1000,
+                    "CaseName": "house_754"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "柳營區",
+                    "Price": 2000,
+                    "CaseName": "house_755"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "柳營區",
+                    "Price": 3000,
+                    "CaseName": "house_756"
+                }
+            ]
+        },
+        "Q75": {
+            "question": "找不動產，處在臺南市 山上區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "山上區",
+                    "Price": 1000,
+                    "CaseName": "house_769"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "山上區",
+                    "Price": 2000,
+                    "CaseName": "house_770"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "山上區",
+                    "Price": 3000,
+                    "CaseName": "house_771"
+                }
+            ]
+        },
+        "Q76": {
+            "question": "我要找屋子，處在雲林縣 口湖鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "雲林縣",
+                    "District": "口湖鄉",
+                    "Price": 1000,
+                    "CaseName": "house_655"
+                },
+                {
+                    "City": "雲林縣",
+                    "District": "口湖鄉",
+                    "Price": 2000,
+                    "CaseName": "house_656"
+                },
+                {
+                    "City": "雲林縣",
+                    "District": "口湖鄉",
+                    "Price": 3000,
+                    "CaseName": "house_657"
+                }
+            ]
+        },
+        "Q77": {
+            "question": "我要找屋子，處在屏東縣 三地門鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "三地門鄉",
+                    "Price": 1000,
+                    "CaseName": "house_940"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "三地門鄉",
+                    "Price": 2000,
+                    "CaseName": "house_941"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "三地門鄉",
+                    "Price": 3000,
+                    "CaseName": "house_942"
+                }
+            ]
+        },
+        "Q78": {
+            "question": "看家，地點在臺東縣 卑南鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "臺東縣",
+                    "District": "卑南鄉",
+                    "Price": 1000,
+                    "CaseName": "house_1048"
+                },
+                {
+                    "City": "臺東縣",
+                    "District": "卑南鄉",
+                    "Price": 2000,
+                    "CaseName": "house_1049"
+                },
+                {
+                    "City": "臺東縣",
+                    "District": "卑南鄉",
+                    "Price": 3000,
+                    "CaseName": "house_1050"
+                }
+            ]
+        },
+        "Q79": {
+            "question": "我想查看房子，地點在苗栗縣 後龍鎮 金額不限。",
+            "answer": [
+                {
+                    "City": "苗栗縣",
+                    "District": "後龍鎮",
+                    "Price": 1000,
+                    "CaseName": "house_301"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "後龍鎮",
+                    "Price": 2000,
+                    "CaseName": "house_302"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "後龍鎮",
+                    "Price": 3000,
+                    "CaseName": "house_303"
+                }
+            ]
+        },
+        "Q80": {
+            "question": "我想查看屋，處在苗栗縣 公館鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "苗栗縣",
+                    "District": "公館鄉",
+                    "Price": 1000,
+                    "CaseName": "house_319"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "公館鄉",
+                    "Price": 2000,
+                    "CaseName": "house_320"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "公館鄉",
+                    "Price": 3000,
+                    "CaseName": "house_321"
+                }
+            ]
+        },
+        "Q81": {
+            "question": "我想查看房屋，位於澎湖縣 望安鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "澎湖縣",
+                    "District": "望安鄉",
+                    "Price": 1000,
+                    "CaseName": "house_907"
+                },
+                {
+                    "City": "澎湖縣",
+                    "District": "望安鄉",
+                    "Price": 2000,
+                    "CaseName": "house_908"
+                },
+                {
+                    "City": "澎湖縣",
+                    "District": "望安鄉",
+                    "Price": 3000,
+                    "CaseName": "house_909"
+                }
+            ]
+        },
+        "Q82": {
+            "question": "看房子，坐落苗栗縣 大湖鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "苗栗縣",
+                    "District": "大湖鄉",
+                    "Price": 1000,
+                    "CaseName": "house_322"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "大湖鄉",
+                    "Price": 2000,
+                    "CaseName": "house_323"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "大湖鄉",
+                    "Price": 3000,
+                    "CaseName": "house_324"
+                }
+            ]
+        },
+        "Q83": {
+            "question": "有沒有屋子，位於臺南市 西港區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "西港區",
+                    "Price": 1000,
+                    "CaseName": "house_721"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "西港區",
+                    "Price": 2000,
+                    "CaseName": "house_722"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "西港區",
+                    "Price": 3000,
+                    "CaseName": "house_723"
+                }
+            ]
+        },
+        "Q84": {
+            "question": "查詢房子，處在高雄市 田寮區 金額不限。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "田寮區",
+                    "Price": 1000,
+                    "CaseName": "house_829"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "田寮區",
+                    "Price": 2000,
+                    "CaseName": "house_830"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "田寮區",
+                    "Price": 3000,
+                    "CaseName": "house_831"
+                }
+            ]
+        },
+        "Q85": {
+            "question": "有沒有房屋，地點在金門縣 金沙鎮 金額不限。",
+            "answer": [
+                {
+                    "City": "金門縣",
+                    "District": "金沙鎮",
+                    "Price": 1000,
+                    "CaseName": "house_919"
+                },
+                {
+                    "City": "金門縣",
+                    "District": "金沙鎮",
+                    "Price": 2000,
+                    "CaseName": "house_920"
+                },
+                {
+                    "City": "金門縣",
+                    "District": "金沙鎮",
+                    "Price": 3000,
+                    "CaseName": "house_921"
+                }
+            ]
+        },
+        "Q86": {
+            "question": "有沒有房子，地點在雲林縣 麥寮鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "雲林縣",
+                    "District": "麥寮鄉",
+                    "Price": 1000,
+                    "CaseName": "house_628"
+                },
+                {
+                    "City": "雲林縣",
+                    "District": "麥寮鄉",
+                    "Price": 2000,
+                    "CaseName": "house_629"
+                },
+                {
+                    "City": "雲林縣",
+                    "District": "麥寮鄉",
+                    "Price": 3000,
+                    "CaseName": "house_630"
+                }
+            ]
+        },
+        "Q87": {
+            "question": "我想查看屋子，坐落臺南市 東區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "東區",
+                    "Price": 1000,
+                    "CaseName": "house_667"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "東區",
+                    "Price": 2000,
+                    "CaseName": "house_668"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "東區",
+                    "Price": 3000,
+                    "CaseName": "house_669"
+                }
+            ]
+        },
+        "Q88": {
+            "question": "查詢屋子，坐落苗栗縣 後龍鎮 金額不限。",
+            "answer": [
+                {
+                    "City": "苗栗縣",
+                    "District": "後龍鎮",
+                    "Price": 1000,
+                    "CaseName": "house_301"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "後龍鎮",
+                    "Price": 2000,
+                    "CaseName": "house_302"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "後龍鎮",
+                    "Price": 3000,
+                    "CaseName": "house_303"
+                }
+            ]
+        },
+        "Q90": {
+            "question": "找房子，地點在苗栗縣 西湖鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "苗栗縣",
+                    "District": "西湖鄉",
+                    "Price": 1000,
+                    "CaseName": "house_334"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "西湖鄉",
+                    "Price": 2000,
+                    "CaseName": "house_335"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "西湖鄉",
+                    "Price": 3000,
+                    "CaseName": "house_336"
+                }
+            ]
+        },
+        "Q91": {
+            "question": "查詢房屋，位於臺中市 大甲區 金額不限。",
+            "answer": [
+                {
+                    "City": "臺中市",
+                    "District": "大甲區",
+                    "Price": 1000,
+                    "CaseName": "house_418"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "大甲區",
+                    "Price": 2000,
+                    "CaseName": "house_419"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "大甲區",
+                    "Price": 3000,
+                    "CaseName": "house_420"
+                }
+            ]
+        },
+        "Q92": {
+            "question": "我想查看家，地點在彰化縣 秀水鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "彰化縣",
+                    "District": "秀水鄉",
+                    "Price": 1000,
+                    "CaseName": "house_436"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "秀水鄉",
+                    "Price": 2000,
+                    "CaseName": "house_437"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "秀水鄉",
+                    "Price": 3000,
+                    "CaseName": "house_438"
+                }
+            ]
+        },
+        "Q93": {
+            "question": "找房屋，處在屏東縣 滿州鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "滿州鄉",
+                    "Price": 1000,
+                    "CaseName": "house_1033"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "滿州鄉",
+                    "Price": 2000,
+                    "CaseName": "house_1034"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "滿州鄉",
+                    "Price": 3000,
+                    "CaseName": "house_1035"
+                }
+            ]
+        },
+        "Q94": {
+            "question": "看房子，地點在高雄市 新興區 金額不限。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "新興區",
+                    "Price": 1000,
+                    "CaseName": "house_775"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "新興區",
+                    "Price": 2000,
+                    "CaseName": "house_776"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "新興區",
+                    "Price": 3000,
+                    "CaseName": "house_777"
+                }
+            ]
+        },
+        "Q95": {
+            "question": "有沒有屋，處在宜蘭縣 蘇澳鎮 金額不限。",
+            "answer": [
+                {
+                    "City": "宜蘭縣",
+                    "District": "蘇澳鎮",
+                    "Price": 1000,
+                    "CaseName": "house_187"
+                },
+                {
+                    "City": "宜蘭縣",
+                    "District": "蘇澳鎮",
+                    "Price": 2000,
+                    "CaseName": "house_188"
+                },
+                {
+                    "City": "宜蘭縣",
+                    "District": "蘇澳鎮",
+                    "Price": 3000,
+                    "CaseName": "house_189"
+                }
+            ]
+        },
+        "Q96": {
+            "question": "看房屋，坐落高雄市 彌陀區 金額不限。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "彌陀區",
+                    "Price": 1000,
+                    "CaseName": "house_841"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "彌陀區",
+                    "Price": 2000,
+                    "CaseName": "house_842"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "彌陀區",
+                    "Price": 3000,
+                    "CaseName": "house_843"
+                }
+            ]
+        },
+        "Q97": {
+            "question": "我想查看不動產，坐落屏東縣 琉球鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "琉球鄉",
+                    "Price": 1000,
+                    "CaseName": "house_1003"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "琉球鄉",
+                    "Price": 2000,
+                    "CaseName": "house_1004"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "琉球鄉",
+                    "Price": 3000,
+                    "CaseName": "house_1005"
+                }
+            ]
+        },
+        "Q98": {
+            "question": "看屋子，位於桃園市 桃園區 金額不限。",
+            "answer": [
+                {
+                    "City": "桃園市",
+                    "District": "桃園區",
+                    "Price": 1000,
+                    "CaseName": "house_265"
+                },
+                {
+                    "City": "桃園市",
+                    "District": "桃園區",
+                    "Price": 2000,
+                    "CaseName": "house_266"
+                },
+                {
+                    "City": "桃園市",
+                    "District": "桃園區",
+                    "Price": 3000,
+                    "CaseName": "house_267"
+                }
+            ]
+        },
+        "Q99": {
+            "question": "我想查看房子，處在苗栗縣 西湖鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "苗栗縣",
+                    "District": "西湖鄉",
+                    "Price": 1000,
+                    "CaseName": "house_334"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "西湖鄉",
+                    "Price": 2000,
+                    "CaseName": "house_335"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "西湖鄉",
+                    "Price": 3000,
+                    "CaseName": "house_336"
+                }
+            ]
+        },
+        "Q100": {
+            "question": "有沒有屋，處在新竹縣 寶山鄉 金額不限。",
+            "answer": [
+                {
+                    "City": "新竹縣",
+                    "District": "寶山鄉",
+                    "Price": 1000,
+                    "CaseName": "house_208"
+                },
+                {
+                    "City": "新竹縣",
+                    "District": "寶山鄉",
+                    "Price": 2000,
+                    "CaseName": "house_209"
+                },
+                {
+                    "City": "新竹縣",
+                    "District": "寶山鄉",
+                    "Price": 3000,
+                    "CaseName": "house_210"
+                }
+            ]
+        }
+    },
+    "incorrect_questions": {
+        "Q21": {
+            "question": "有沒有家，坐落南海島 南沙群島 金額不限。",
+            "expected": [
+                {
+                    "City": "南海島",
+                    "District": "南沙群島",
+                    "Price": 1000,
+                    "CaseName": "house_898"
+                },
+                {
+                    "City": "南海島",
+                    "District": "南沙群島",
+                    "Price": 2000,
+                    "CaseName": "house_899"
+                },
+                {
+                    "City": "南海島",
+                    "District": "南沙群島",
+                    "Price": 3000,
+                    "CaseName": "house_900"
+                }
+            ],
+            "actual": []
+        },
+        "Q28": {
+            "question": "看家，地點在高雄市 東沙群島 金額不限。",
+            "expected": [
+                {
+                    "City": "高雄市",
+                    "District": "東沙群島",
+                    "Price": 1000,
+                    "CaseName": "house_814"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "東沙群島",
+                    "Price": 2000,
+                    "CaseName": "house_815"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "東沙群島",
+                    "Price": 3000,
+                    "CaseName": "house_816"
+                }
+            ],
+            "actual": []
+        },
+        "Q43": {
+            "question": "我要找屋子，處在釣魚臺 釣魚臺 金額不限。",
+            "expected": [
+                {
+                    "City": "釣魚臺",
+                    "District": "釣魚臺",
+                    "Price": 1000,
+                    "CaseName": "house_196"
+                },
+                {
+                    "City": "釣魚臺",
+                    "District": "釣魚臺",
+                    "Price": 2000,
+                    "CaseName": "house_197"
+                },
+                {
+                    "City": "釣魚臺",
+                    "District": "釣魚臺",
+                    "Price": 3000,
+                    "CaseName": "house_198"
+                }
+            ],
+            "actual": []
+        },
+        "Q89": {
+            "question": "我要找房屋，地點在釣魚臺 釣魚臺 金額不限。",
+            "expected": [
+                {
+                    "City": "釣魚臺",
+                    "District": "釣魚臺",
+                    "Price": 1000,
+                    "CaseName": "house_196"
+                },
+                {
+                    "City": "釣魚臺",
+                    "District": "釣魚臺",
+                    "Price": 2000,
+                    "CaseName": "house_197"
+                },
+                {
+                    "City": "釣魚臺",
+                    "District": "釣魚臺",
+                    "Price": 3000,
+                    "CaseName": "house_198"
+                }
+            ],
+            "actual": []
+        }
+    }
+}

@@ -1,0 +1,1926 @@
+[
+    [
+        {
+            "City": "臺南市",
+            "District": "西港區",
+            "Price": 1000,
+            "CaseName": "house_721"
+        },
+        {
+            "City": "臺南市",
+            "District": "西港區",
+            "Price": 2000,
+            "CaseName": "house_722"
+        },
+        {
+            "City": "臺南市",
+            "District": "西港區",
+            "Price": 3000,
+            "CaseName": "house_723"
+        }
+    ],
+    [
+        {
+            "City": "澎湖縣",
+            "District": "望安鄉",
+            "Price": 1000,
+            "CaseName": "house_907"
+        },
+        {
+            "City": "澎湖縣",
+            "District": "望安鄉",
+            "Price": 2000,
+            "CaseName": "house_908"
+        },
+        {
+            "City": "澎湖縣",
+            "District": "望安鄉",
+            "Price": 3000,
+            "CaseName": "house_909"
+        }
+    ],
+    [
+        {
+            "City": "彰化縣",
+            "District": "埔心鄉",
+            "Price": 1000,
+            "CaseName": "house_463"
+        },
+        {
+            "City": "彰化縣",
+            "District": "埔心鄉",
+            "Price": 2000,
+            "CaseName": "house_464"
+        },
+        {
+            "City": "彰化縣",
+            "District": "埔心鄉",
+            "Price": 3000,
+            "CaseName": "house_465"
+        }
+    ],
+    [
+        {
+            "City": "屏東縣",
+            "District": "獅子鄉",
+            "Price": 1000,
+            "CaseName": "house_1021"
+        },
+        {
+            "City": "屏東縣",
+            "District": "獅子鄉",
+            "Price": 2000,
+            "CaseName": "house_1022"
+        },
+        {
+            "City": "屏東縣",
+            "District": "獅子鄉",
+            "Price": 3000,
+            "CaseName": "house_1023"
+        }
+    ],
+    [
+        {
+            "City": "屏東縣",
+            "District": "高樹鄉",
+            "Price": 1000,
+            "CaseName": "house_955"
+        },
+        {
+            "City": "屏東縣",
+            "District": "高樹鄉",
+            "Price": 2000,
+            "CaseName": "house_956"
+        },
+        {
+            "City": "屏東縣",
+            "District": "高樹鄉",
+            "Price": 3000,
+            "CaseName": "house_957"
+        }
+    ],
+    [
+        {
+            "City": "臺中市",
+            "District": "南屯區",
+            "Price": 1000,
+            "CaseName": "house_361"
+        },
+        {
+            "City": "臺中市",
+            "District": "南屯區",
+            "Price": 2000,
+            "CaseName": "house_362"
+        },
+        {
+            "City": "臺中市",
+            "District": "南屯區",
+            "Price": 3000,
+            "CaseName": "house_363"
+        }
+    ],
+    [
+        {
+            "City": "嘉義縣",
+            "District": "梅山鄉",
+            "Price": 1000,
+            "CaseName": "house_553"
+        },
+        {
+            "City": "嘉義縣",
+            "District": "梅山鄉",
+            "Price": 2000,
+            "CaseName": "house_554"
+        },
+        {
+            "City": "嘉義縣",
+            "District": "梅山鄉",
+            "Price": 3000,
+            "CaseName": "house_555"
+        }
+    ],
+    [
+        {
+            "City": "新北市",
+            "District": "石門區",
+            "Price": 1000,
+            "CaseName": "house_142"
+        },
+        {
+            "City": "新北市",
+            "District": "石門區",
+            "Price": 2000,
+            "CaseName": "house_143"
+        },
+        {
+            "City": "新北市",
+            "District": "石門區",
+            "Price": 3000,
+            "CaseName": "house_144"
+        }
+    ],
+    [
+        {
+            "City": "嘉義縣",
+            "District": "竹崎鄉",
+            "Price": 1000,
+            "CaseName": "house_556"
+        },
+        {
+            "City": "嘉義縣",
+            "District": "竹崎鄉",
+            "Price": 2000,
+            "CaseName": "house_557"
+        },
+        {
+            "City": "嘉義縣",
+            "District": "竹崎鄉",
+            "Price": 3000,
+            "CaseName": "house_558"
+        }
+    ],
+    [
+        {
+            "City": "新北市",
+            "District": "淡水區",
+            "Price": 1000,
+            "CaseName": "house_136"
+        },
+        {
+            "City": "新北市",
+            "District": "淡水區",
+            "Price": 2000,
+            "CaseName": "house_137"
+        },
+        {
+            "City": "新北市",
+            "District": "淡水區",
+            "Price": 3000,
+            "CaseName": "house_138"
+        }
+    ],
+    [
+        {
+            "City": "桃園市",
+            "District": "桃園區",
+            "Price": 1000,
+            "CaseName": "house_265"
+        },
+        {
+            "City": "桃園市",
+            "District": "桃園區",
+            "Price": 2000,
+            "CaseName": "house_266"
+        },
+        {
+            "City": "桃園市",
+            "District": "桃園區",
+            "Price": 3000,
+            "CaseName": "house_267"
+        }
+    ],
+    [
+        {
+            "City": "臺南市",
+            "District": "白河區",
+            "Price": 1000,
+            "CaseName": "house_742"
+        },
+        {
+            "City": "臺南市",
+            "District": "白河區",
+            "Price": 2000,
+            "CaseName": "house_743"
+        },
+        {
+            "City": "臺南市",
+            "District": "白河區",
+            "Price": 3000,
+            "CaseName": "house_744"
+        }
+    ],
+    [
+        {
+            "City": "桃園市",
+            "District": "平鎮區",
+            "Price": 1000,
+            "CaseName": "house_250"
+        },
+        {
+            "City": "桃園市",
+            "District": "平鎮區",
+            "Price": 2000,
+            "CaseName": "house_251"
+        },
+        {
+            "City": "桃園市",
+            "District": "平鎮區",
+            "Price": 3000,
+            "CaseName": "house_252"
+        }
+    ],
+    [
+        {
+            "City": "新北市",
+            "District": "中和區",
+            "Price": 1000,
+            "CaseName": "house_100"
+        },
+        {
+            "City": "新北市",
+            "District": "中和區",
+            "Price": 2000,
+            "CaseName": "house_101"
+        },
+        {
+            "City": "新北市",
+            "District": "中和區",
+            "Price": 3000,
+            "CaseName": "house_102"
+        }
+    ],
+    [
+        {
+            "City": "臺北市",
+            "District": "內湖區",
+            "Price": 1000,
+            "CaseName": "house_28"
+        },
+        {
+            "City": "臺北市",
+            "District": "內湖區",
+            "Price": 2000,
+            "CaseName": "house_29"
+        },
+        {
+            "City": "臺北市",
+            "District": "內湖區",
+            "Price": 3000,
+            "CaseName": "house_30"
+        }
+    ],
+    [
+        {
+            "City": "彰化縣",
+            "District": "田尾鄉",
+            "Price": 1000,
+            "CaseName": "house_481"
+        },
+        {
+            "City": "彰化縣",
+            "District": "田尾鄉",
+            "Price": 2000,
+            "CaseName": "house_482"
+        },
+        {
+            "City": "彰化縣",
+            "District": "田尾鄉",
+            "Price": 3000,
+            "CaseName": "house_483"
+        }
+    ],
+    [
+        {
+            "City": "高雄市",
+            "District": "岡山區",
+            "Price": 1000,
+            "CaseName": "house_820"
+        },
+        {
+            "City": "高雄市",
+            "District": "岡山區",
+            "Price": 2000,
+            "CaseName": "house_821"
+        },
+        {
+            "City": "高雄市",
+            "District": "岡山區",
+            "Price": 3000,
+            "CaseName": "house_822"
+        }
+    ],
+    [
+        {
+            "City": "臺南市",
+            "District": "六甲區",
+            "Price": 1000,
+            "CaseName": "house_748"
+        },
+        {
+            "City": "臺南市",
+            "District": "六甲區",
+            "Price": 2000,
+            "CaseName": "house_749"
+        },
+        {
+            "City": "臺南市",
+            "District": "六甲區",
+            "Price": 3000,
+            "CaseName": "house_750"
+        }
+    ],
+    [
+        {
+            "City": "嘉義縣",
+            "District": "大埔鄉",
+            "Price": 1000,
+            "CaseName": "house_565"
+        },
+        {
+            "City": "嘉義縣",
+            "District": "大埔鄉",
+            "Price": 2000,
+            "CaseName": "house_566"
+        },
+        {
+            "City": "嘉義縣",
+            "District": "大埔鄉",
+            "Price": 3000,
+            "CaseName": "house_567"
+        }
+    ],
+    [
+        {
+            "City": "花蓮縣",
+            "District": "吉安鄉",
+            "Price": 1000,
+            "CaseName": "house_1093"
+        },
+        {
+            "City": "花蓮縣",
+            "District": "吉安鄉",
+            "Price": 2000,
+            "CaseName": "house_1094"
+        },
+        {
+            "City": "花蓮縣",
+            "District": "吉安鄉",
+            "Price": 3000,
+            "CaseName": "house_1095"
+        }
+    ],
+    [],
+    [
+        {
+            "City": "嘉義縣",
+            "District": "朴子市",
+            "Price": 1000,
+            "CaseName": "house_577"
+        },
+        {
+            "City": "嘉義縣",
+            "District": "朴子市",
+            "Price": 2000,
+            "CaseName": "house_578"
+        },
+        {
+            "City": "嘉義縣",
+            "District": "朴子市",
+            "Price": 3000,
+            "CaseName": "house_579"
+        }
+    ],
+    [
+        {
+            "City": "高雄市",
+            "District": "前鎮區",
+            "Price": 1000,
+            "CaseName": "house_793"
+        },
+        {
+            "City": "高雄市",
+            "District": "前鎮區",
+            "Price": 2000,
+            "CaseName": "house_794"
+        },
+        {
+            "City": "高雄市",
+            "District": "前鎮區",
+            "Price": 3000,
+            "CaseName": "house_795"
+        }
+    ],
+    [
+        {
+            "City": "桃園市",
+            "District": "桃園區",
+            "Price": 1000,
+            "CaseName": "house_265"
+        },
+        {
+            "City": "桃園市",
+            "District": "桃園區",
+            "Price": 2000,
+            "CaseName": "house_266"
+        },
+        {
+            "City": "桃園市",
+            "District": "桃園區",
+            "Price": 3000,
+            "CaseName": "house_267"
+        }
+    ],
+    [
+        {
+            "City": "南海島",
+            "District": "南沙群島",
+            "Price": 1000,
+            "CaseName": "house_898"
+        },
+        {
+            "City": "南海島",
+            "District": "南沙群島",
+            "Price": 2000,
+            "CaseName": "house_899"
+        },
+        {
+            "City": "南海島",
+            "District": "南沙群島",
+            "Price": 3000,
+            "CaseName": "house_900"
+        }
+    ],
+    [
+        {
+            "City": "臺南市",
+            "District": "龍崎區",
+            "Price": 1000,
+            "CaseName": "house_709"
+        },
+        {
+            "City": "臺南市",
+            "District": "龍崎區",
+            "Price": 2000,
+            "CaseName": "house_710"
+        },
+        {
+            "City": "臺南市",
+            "District": "龍崎區",
+            "Price": 3000,
+            "CaseName": "house_711"
+        }
+    ],
+    [
+        {
+            "City": "彰化縣",
+            "District": "二林鎮",
+            "Price": 1000,
+            "CaseName": "house_493"
+        },
+        {
+            "City": "彰化縣",
+            "District": "二林鎮",
+            "Price": 2000,
+            "CaseName": "house_494"
+        },
+        {
+            "City": "彰化縣",
+            "District": "二林鎮",
+            "Price": 3000,
+            "CaseName": "house_495"
+        }
+    ],
+    [],
+    [
+        {
+            "City": "花蓮縣",
+            "District": "瑞穗鄉",
+            "Price": 1000,
+            "CaseName": "house_1108"
+        },
+        {
+            "City": "花蓮縣",
+            "District": "瑞穗鄉",
+            "Price": 2000,
+            "CaseName": "house_1109"
+        },
+        {
+            "City": "花蓮縣",
+            "District": "瑞穗鄉",
+            "Price": 3000,
+            "CaseName": "house_1110"
+        }
+    ],
+    [
+        {
+            "City": "屏東縣",
+            "District": "鹽埔鄉",
+            "Price": 1000,
+            "CaseName": "house_958"
+        },
+        {
+            "City": "屏東縣",
+            "District": "鹽埔鄉",
+            "Price": 2000,
+            "CaseName": "house_959"
+        },
+        {
+            "City": "屏東縣",
+            "District": "鹽埔鄉",
+            "Price": 3000,
+            "CaseName": "house_960"
+        }
+    ],
+    [
+        {
+            "City": "新竹縣",
+            "District": "竹北市",
+            "Price": 1000,
+            "CaseName": "house_211"
+        },
+        {
+            "City": "新竹縣",
+            "District": "竹北市",
+            "Price": 2000,
+            "CaseName": "house_212"
+        },
+        {
+            "City": "新竹縣",
+            "District": "竹北市",
+            "Price": 3000,
+            "CaseName": "house_213"
+        }
+    ],
+    [
+        {
+            "City": "屏東縣",
+            "District": "新埤鄉",
+            "Price": 1000,
+            "CaseName": "house_991"
+        },
+        {
+            "City": "屏東縣",
+            "District": "新埤鄉",
+            "Price": 2000,
+            "CaseName": "house_992"
+        },
+        {
+            "City": "屏東縣",
+            "District": "新埤鄉",
+            "Price": 3000,
+            "CaseName": "house_993"
+        }
+    ],
+    [
+        {
+            "City": "彰化縣",
+            "District": "線西鄉",
+            "Price": 1000,
+            "CaseName": "house_445"
+        },
+        {
+            "City": "彰化縣",
+            "District": "線西鄉",
+            "Price": 2000,
+            "CaseName": "house_446"
+        },
+        {
+            "City": "彰化縣",
+            "District": "線西鄉",
+            "Price": 3000,
+            "CaseName": "house_447"
+        }
+    ],
+    [
+        {
+            "City": "新北市",
+            "District": "平溪區",
+            "Price": 1000,
+            "CaseName": "house_79"
+        },
+        {
+            "City": "新北市",
+            "District": "平溪區",
+            "Price": 2000,
+            "CaseName": "house_80"
+        },
+        {
+            "City": "新北市",
+            "District": "平溪區",
+            "Price": 3000,
+            "CaseName": "house_81"
+        }
+    ],
+    [
+        {
+            "City": "基隆市",
+            "District": "仁愛區",
+            "Price": 1000,
+            "CaseName": "house_37"
+        },
+        {
+            "City": "基隆市",
+            "District": "仁愛區",
+            "Price": 2000,
+            "CaseName": "house_38"
+        },
+        {
+            "City": "基隆市",
+            "District": "仁愛區",
+            "Price": 3000,
+            "CaseName": "house_39"
+        }
+    ],
+    [
+        {
+            "City": "花蓮縣",
+            "District": "壽豐鄉",
+            "Price": 1000,
+            "CaseName": "house_1096"
+        },
+        {
+            "City": "花蓮縣",
+            "District": "壽豐鄉",
+            "Price": 2000,
+            "CaseName": "house_1097"
+        },
+        {
+            "City": "花蓮縣",
+            "District": "壽豐鄉",
+            "Price": 3000,
+            "CaseName": "house_1098"
+        }
+    ],
+    [
+        {
+            "City": "苗栗縣",
+            "District": "後龍鎮",
+            "Price": 1000,
+            "CaseName": "house_301"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "後龍鎮",
+            "Price": 2000,
+            "CaseName": "house_302"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "後龍鎮",
+            "Price": 3000,
+            "CaseName": "house_303"
+        }
+    ],
+    [
+        {
+            "City": "苗栗縣",
+            "District": "頭屋鄉",
+            "Price": 1000,
+            "CaseName": "house_316"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "頭屋鄉",
+            "Price": 2000,
+            "CaseName": "house_317"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "頭屋鄉",
+            "Price": 3000,
+            "CaseName": "house_318"
+        }
+    ],
+    [
+        {
+            "City": "臺南市",
+            "District": "新化區",
+            "Price": 1000,
+            "CaseName": "house_688"
+        },
+        {
+            "City": "臺南市",
+            "District": "新化區",
+            "Price": 2000,
+            "CaseName": "house_689"
+        },
+        {
+            "City": "臺南市",
+            "District": "新化區",
+            "Price": 3000,
+            "CaseName": "house_690"
+        }
+    ],
+    [
+        {
+            "City": "基隆市",
+            "District": "暖暖區",
+            "Price": 1000,
+            "CaseName": "house_52"
+        },
+        {
+            "City": "基隆市",
+            "District": "暖暖區",
+            "Price": 2000,
+            "CaseName": "house_53"
+        },
+        {
+            "City": "基隆市",
+            "District": "暖暖區",
+            "Price": 3000,
+            "CaseName": "house_54"
+        }
+    ],
+    [
+        {
+            "City": "臺中市",
+            "District": "烏日區",
+            "Price": 1000,
+            "CaseName": "house_373"
+        },
+        {
+            "City": "臺中市",
+            "District": "烏日區",
+            "Price": 2000,
+            "CaseName": "house_374"
+        },
+        {
+            "City": "臺中市",
+            "District": "烏日區",
+            "Price": 3000,
+            "CaseName": "house_375"
+        }
+    ],
+    [
+        {
+            "City": "苗栗縣",
+            "District": "銅鑼鄉",
+            "Price": 1000,
+            "CaseName": "house_328"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "銅鑼鄉",
+            "Price": 2000,
+            "CaseName": "house_329"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "銅鑼鄉",
+            "Price": 3000,
+            "CaseName": "house_330"
+        }
+    ],
+    [],
+    [
+        {
+            "City": "新北市",
+            "District": "貢寮區",
+            "Price": 1000,
+            "CaseName": "house_85"
+        },
+        {
+            "City": "新北市",
+            "District": "貢寮區",
+            "Price": 2000,
+            "CaseName": "house_86"
+        },
+        {
+            "City": "新北市",
+            "District": "貢寮區",
+            "Price": 3000,
+            "CaseName": "house_87"
+        }
+    ],
+    [
+        {
+            "City": "臺南市",
+            "District": "北門區",
+            "Price": 1000,
+            "CaseName": "house_733"
+        },
+        {
+            "City": "臺南市",
+            "District": "北門區",
+            "Price": 2000,
+            "CaseName": "house_734"
+        },
+        {
+            "City": "臺南市",
+            "District": "北門區",
+            "Price": 3000,
+            "CaseName": "house_735"
+        }
+    ],
+    [
+        {
+            "City": "臺南市",
+            "District": "安平區",
+            "Price": 1000,
+            "CaseName": "house_676"
+        },
+        {
+            "City": "臺南市",
+            "District": "安平區",
+            "Price": 2000,
+            "CaseName": "house_677"
+        },
+        {
+            "City": "臺南市",
+            "District": "安平區",
+            "Price": 3000,
+            "CaseName": "house_678"
+        }
+    ],
+    [
+        {
+            "City": "金門縣",
+            "District": "金湖鎮",
+            "Price": 1000,
+            "CaseName": "house_922"
+        },
+        {
+            "City": "金門縣",
+            "District": "金湖鎮",
+            "Price": 2000,
+            "CaseName": "house_923"
+        },
+        {
+            "City": "金門縣",
+            "District": "金湖鎮",
+            "Price": 3000,
+            "CaseName": "house_924"
+        }
+    ],
+    [
+        {
+            "City": "南投縣",
+            "District": "水里鄉",
+            "Price": 1000,
+            "CaseName": "house_529"
+        },
+        {
+            "City": "南投縣",
+            "District": "水里鄉",
+            "Price": 2000,
+            "CaseName": "house_530"
+        },
+        {
+            "City": "南投縣",
+            "District": "水里鄉",
+            "Price": 3000,
+            "CaseName": "house_531"
+        }
+    ],
+    [
+        {
+            "City": "高雄市",
+            "District": "旗津區",
+            "Price": 1000,
+            "CaseName": "house_790"
+        },
+        {
+            "City": "高雄市",
+            "District": "旗津區",
+            "Price": 2000,
+            "CaseName": "house_791"
+        },
+        {
+            "City": "高雄市",
+            "District": "旗津區",
+            "Price": 3000,
+            "CaseName": "house_792"
+        }
+    ],
+    [
+        {
+            "City": "雲林縣",
+            "District": "西螺鎮",
+            "Price": 1000,
+            "CaseName": "house_643"
+        },
+        {
+            "City": "雲林縣",
+            "District": "西螺鎮",
+            "Price": 2000,
+            "CaseName": "house_644"
+        },
+        {
+            "City": "雲林縣",
+            "District": "西螺鎮",
+            "Price": 3000,
+            "CaseName": "house_645"
+        }
+    ],
+    [
+        {
+            "City": "宜蘭縣",
+            "District": "壯圍鄉",
+            "Price": 1000,
+            "CaseName": "house_160"
+        },
+        {
+            "City": "宜蘭縣",
+            "District": "壯圍鄉",
+            "Price": 2000,
+            "CaseName": "house_161"
+        },
+        {
+            "City": "宜蘭縣",
+            "District": "壯圍鄉",
+            "Price": 3000,
+            "CaseName": "house_162"
+        }
+    ],
+    [
+        {
+            "City": "雲林縣",
+            "District": "北港鎮",
+            "Price": 1000,
+            "CaseName": "house_649"
+        },
+        {
+            "City": "雲林縣",
+            "District": "北港鎮",
+            "Price": 2000,
+            "CaseName": "house_650"
+        },
+        {
+            "City": "雲林縣",
+            "District": "北港鎮",
+            "Price": 3000,
+            "CaseName": "house_651"
+        }
+    ],
+    [
+        {
+            "City": "基隆市",
+            "District": "仁愛區",
+            "Price": 1000,
+            "CaseName": "house_37"
+        },
+        {
+            "City": "基隆市",
+            "District": "仁愛區",
+            "Price": 2000,
+            "CaseName": "house_38"
+        },
+        {
+            "City": "基隆市",
+            "District": "仁愛區",
+            "Price": 3000,
+            "CaseName": "house_39"
+        }
+    ],
+    [
+        {
+            "City": "金門縣",
+            "District": "金寧鄉",
+            "Price": 1000,
+            "CaseName": "house_925"
+        },
+        {
+            "City": "金門縣",
+            "District": "金寧鄉",
+            "Price": 2000,
+            "CaseName": "house_926"
+        },
+        {
+            "City": "金門縣",
+            "District": "金寧鄉",
+            "Price": 3000,
+            "CaseName": "house_927"
+        }
+    ],
+    [
+        {
+            "City": "新北市",
+            "District": "淡水區",
+            "Price": 1000,
+            "CaseName": "house_136"
+        },
+        {
+            "City": "新北市",
+            "District": "淡水區",
+            "Price": 2000,
+            "CaseName": "house_137"
+        },
+        {
+            "City": "新北市",
+            "District": "淡水區",
+            "Price": 3000,
+            "CaseName": "house_138"
+        }
+    ],
+    [
+        {
+            "City": "新竹縣",
+            "District": "峨眉鄉",
+            "Price": 1000,
+            "CaseName": "house_244"
+        },
+        {
+            "City": "新竹縣",
+            "District": "峨眉鄉",
+            "Price": 2000,
+            "CaseName": "house_245"
+        },
+        {
+            "City": "新竹縣",
+            "District": "峨眉鄉",
+            "Price": 3000,
+            "CaseName": "house_246"
+        }
+    ],
+    [
+        {
+            "City": "屏東縣",
+            "District": "瑪家鄉",
+            "Price": 1000,
+            "CaseName": "house_946"
+        },
+        {
+            "City": "屏東縣",
+            "District": "瑪家鄉",
+            "Price": 2000,
+            "CaseName": "house_947"
+        },
+        {
+            "City": "屏東縣",
+            "District": "瑪家鄉",
+            "Price": 3000,
+            "CaseName": "house_948"
+        }
+    ],
+    [
+        {
+            "City": "臺中市",
+            "District": "西區",
+            "Price": 1000,
+            "CaseName": "house_349"
+        },
+        {
+            "City": "臺中市",
+            "District": "西區",
+            "Price": 2000,
+            "CaseName": "house_350"
+        },
+        {
+            "City": "臺中市",
+            "District": "西區",
+            "Price": 3000,
+            "CaseName": "house_351"
+        }
+    ],
+    [
+        {
+            "City": "金門縣",
+            "District": "金湖鎮",
+            "Price": 1000,
+            "CaseName": "house_922"
+        },
+        {
+            "City": "金門縣",
+            "District": "金湖鎮",
+            "Price": 2000,
+            "CaseName": "house_923"
+        },
+        {
+            "City": "金門縣",
+            "District": "金湖鎮",
+            "Price": 3000,
+            "CaseName": "house_924"
+        }
+    ],
+    [
+        {
+            "City": "澎湖縣",
+            "District": "望安鄉",
+            "Price": 1000,
+            "CaseName": "house_907"
+        },
+        {
+            "City": "澎湖縣",
+            "District": "望安鄉",
+            "Price": 2000,
+            "CaseName": "house_908"
+        },
+        {
+            "City": "澎湖縣",
+            "District": "望安鄉",
+            "Price": 3000,
+            "CaseName": "house_909"
+        }
+    ],
+    [
+        {
+            "City": "彰化縣",
+            "District": "二林鎮",
+            "Price": 1000,
+            "CaseName": "house_493"
+        },
+        {
+            "City": "彰化縣",
+            "District": "二林鎮",
+            "Price": 2000,
+            "CaseName": "house_494"
+        },
+        {
+            "City": "彰化縣",
+            "District": "二林鎮",
+            "Price": 3000,
+            "CaseName": "house_495"
+        }
+    ],
+    [
+        {
+            "City": "嘉義縣",
+            "District": "水上鄉",
+            "Price": 1000,
+            "CaseName": "house_568"
+        },
+        {
+            "City": "嘉義縣",
+            "District": "水上鄉",
+            "Price": 2000,
+            "CaseName": "house_569"
+        },
+        {
+            "City": "嘉義縣",
+            "District": "水上鄉",
+            "Price": 3000,
+            "CaseName": "house_570"
+        }
+    ],
+    [
+        {
+            "City": "雲林縣",
+            "District": "斗六市",
+            "Price": 1000,
+            "CaseName": "house_631"
+        },
+        {
+            "City": "雲林縣",
+            "District": "斗六市",
+            "Price": 2000,
+            "CaseName": "house_632"
+        },
+        {
+            "City": "雲林縣",
+            "District": "斗六市",
+            "Price": 3000,
+            "CaseName": "house_633"
+        }
+    ],
+    [
+        {
+            "City": "臺中市",
+            "District": "沙鹿區",
+            "Price": 1000,
+            "CaseName": "house_406"
+        },
+        {
+            "City": "臺中市",
+            "District": "沙鹿區",
+            "Price": 2000,
+            "CaseName": "house_407"
+        },
+        {
+            "City": "臺中市",
+            "District": "沙鹿區",
+            "Price": 3000,
+            "CaseName": "house_408"
+        }
+    ],
+    [
+        {
+            "City": "臺東縣",
+            "District": "臺東市",
+            "Price": 1000,
+            "CaseName": "house_1036"
+        },
+        {
+            "City": "臺東縣",
+            "District": "臺東市",
+            "Price": 2000,
+            "CaseName": "house_1037"
+        },
+        {
+            "City": "臺東縣",
+            "District": "臺東市",
+            "Price": 3000,
+            "CaseName": "house_1038"
+        }
+    ],
+    [
+        {
+            "City": "高雄市",
+            "District": "內門區",
+            "Price": 1000,
+            "CaseName": "house_874"
+        },
+        {
+            "City": "高雄市",
+            "District": "內門區",
+            "Price": 2000,
+            "CaseName": "house_875"
+        },
+        {
+            "City": "高雄市",
+            "District": "內門區",
+            "Price": 3000,
+            "CaseName": "house_876"
+        }
+    ],
+    [
+        {
+            "City": "臺中市",
+            "District": "大安區",
+            "Price": 1000,
+            "CaseName": "house_424"
+        },
+        {
+            "City": "臺中市",
+            "District": "大安區",
+            "Price": 2000,
+            "CaseName": "house_425"
+        },
+        {
+            "City": "臺中市",
+            "District": "大安區",
+            "Price": 3000,
+            "CaseName": "house_426"
+        }
+    ],
+    [
+        {
+            "City": "臺南市",
+            "District": "山上區",
+            "Price": 1000,
+            "CaseName": "house_769"
+        },
+        {
+            "City": "臺南市",
+            "District": "山上區",
+            "Price": 2000,
+            "CaseName": "house_770"
+        },
+        {
+            "City": "臺南市",
+            "District": "山上區",
+            "Price": 3000,
+            "CaseName": "house_771"
+        }
+    ],
+    [
+        {
+            "City": "高雄市",
+            "District": "左營區",
+            "Price": 1000,
+            "CaseName": "house_805"
+        },
+        {
+            "City": "高雄市",
+            "District": "左營區",
+            "Price": 2000,
+            "CaseName": "house_806"
+        },
+        {
+            "City": "高雄市",
+            "District": "左營區",
+            "Price": 3000,
+            "CaseName": "house_807"
+        }
+    ],
+    [
+        {
+            "City": "屏東縣",
+            "District": "佳冬鄉",
+            "Price": 1000,
+            "CaseName": "house_1006"
+        },
+        {
+            "City": "屏東縣",
+            "District": "佳冬鄉",
+            "Price": 2000,
+            "CaseName": "house_1007"
+        },
+        {
+            "City": "屏東縣",
+            "District": "佳冬鄉",
+            "Price": 3000,
+            "CaseName": "house_1008"
+        }
+    ],
+    [
+        {
+            "City": "花蓮縣",
+            "District": "秀林鄉",
+            "Price": 1000,
+            "CaseName": "house_1090"
+        },
+        {
+            "City": "花蓮縣",
+            "District": "秀林鄉",
+            "Price": 2000,
+            "CaseName": "house_1091"
+        },
+        {
+            "City": "花蓮縣",
+            "District": "秀林鄉",
+            "Price": 3000,
+            "CaseName": "house_1092"
+        }
+    ],
+    [
+        {
+            "City": "高雄市",
+            "District": "阿蓮區",
+            "Price": 1000,
+            "CaseName": "house_826"
+        },
+        {
+            "City": "高雄市",
+            "District": "阿蓮區",
+            "Price": 2000,
+            "CaseName": "house_827"
+        },
+        {
+            "City": "高雄市",
+            "District": "阿蓮區",
+            "Price": 3000,
+            "CaseName": "house_828"
+        }
+    ],
+    [
+        {
+            "City": "雲林縣",
+            "District": "東勢鄉",
+            "Price": 1000,
+            "CaseName": "house_619"
+        },
+        {
+            "City": "雲林縣",
+            "District": "東勢鄉",
+            "Price": 2000,
+            "CaseName": "house_620"
+        },
+        {
+            "City": "雲林縣",
+            "District": "東勢鄉",
+            "Price": 3000,
+            "CaseName": "house_621"
+        }
+    ],
+    [
+        {
+            "City": "臺南市",
+            "District": "柳營區",
+            "Price": 1000,
+            "CaseName": "house_754"
+        },
+        {
+            "City": "臺南市",
+            "District": "柳營區",
+            "Price": 2000,
+            "CaseName": "house_755"
+        },
+        {
+            "City": "臺南市",
+            "District": "柳營區",
+            "Price": 3000,
+            "CaseName": "house_756"
+        }
+    ],
+    [
+        {
+            "City": "臺南市",
+            "District": "山上區",
+            "Price": 1000,
+            "CaseName": "house_769"
+        },
+        {
+            "City": "臺南市",
+            "District": "山上區",
+            "Price": 2000,
+            "CaseName": "house_770"
+        },
+        {
+            "City": "臺南市",
+            "District": "山上區",
+            "Price": 3000,
+            "CaseName": "house_771"
+        }
+    ],
+    [
+        {
+            "City": "雲林縣",
+            "District": "口湖鄉",
+            "Price": 1000,
+            "CaseName": "house_655"
+        },
+        {
+            "City": "雲林縣",
+            "District": "口湖鄉",
+            "Price": 2000,
+            "CaseName": "house_656"
+        },
+        {
+            "City": "雲林縣",
+            "District": "口湖鄉",
+            "Price": 3000,
+            "CaseName": "house_657"
+        }
+    ],
+    [
+        {
+            "City": "屏東縣",
+            "District": "三地門鄉",
+            "Price": 1000,
+            "CaseName": "house_940"
+        },
+        {
+            "City": "屏東縣",
+            "District": "三地門鄉",
+            "Price": 2000,
+            "CaseName": "house_941"
+        },
+        {
+            "City": "屏東縣",
+            "District": "三地門鄉",
+            "Price": 3000,
+            "CaseName": "house_942"
+        }
+    ],
+    [
+        {
+            "City": "臺東縣",
+            "District": "卑南鄉",
+            "Price": 1000,
+            "CaseName": "house_1048"
+        },
+        {
+            "City": "臺東縣",
+            "District": "卑南鄉",
+            "Price": 2000,
+            "CaseName": "house_1049"
+        },
+        {
+            "City": "臺東縣",
+            "District": "卑南鄉",
+            "Price": 3000,
+            "CaseName": "house_1050"
+        }
+    ],
+    [
+        {
+            "City": "苗栗縣",
+            "District": "後龍鎮",
+            "Price": 1000,
+            "CaseName": "house_301"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "後龍鎮",
+            "Price": 2000,
+            "CaseName": "house_302"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "後龍鎮",
+            "Price": 3000,
+            "CaseName": "house_303"
+        }
+    ],
+    [
+        {
+            "City": "苗栗縣",
+            "District": "公館鄉",
+            "Price": 1000,
+            "CaseName": "house_319"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "公館鄉",
+            "Price": 2000,
+            "CaseName": "house_320"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "公館鄉",
+            "Price": 3000,
+            "CaseName": "house_321"
+        }
+    ],
+    [
+        {
+            "City": "澎湖縣",
+            "District": "望安鄉",
+            "Price": 1000,
+            "CaseName": "house_907"
+        },
+        {
+            "City": "澎湖縣",
+            "District": "望安鄉",
+            "Price": 2000,
+            "CaseName": "house_908"
+        },
+        {
+            "City": "澎湖縣",
+            "District": "望安鄉",
+            "Price": 3000,
+            "CaseName": "house_909"
+        }
+    ],
+    [
+        {
+            "City": "苗栗縣",
+            "District": "大湖鄉",
+            "Price": 1000,
+            "CaseName": "house_322"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "大湖鄉",
+            "Price": 2000,
+            "CaseName": "house_323"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "大湖鄉",
+            "Price": 3000,
+            "CaseName": "house_324"
+        }
+    ],
+    [
+        {
+            "City": "臺南市",
+            "District": "西港區",
+            "Price": 1000,
+            "CaseName": "house_721"
+        },
+        {
+            "City": "臺南市",
+            "District": "西港區",
+            "Price": 2000,
+            "CaseName": "house_722"
+        },
+        {
+            "City": "臺南市",
+            "District": "西港區",
+            "Price": 3000,
+            "CaseName": "house_723"
+        }
+    ],
+    [
+        {
+            "City": "高雄市",
+            "District": "田寮區",
+            "Price": 1000,
+            "CaseName": "house_829"
+        },
+        {
+            "City": "高雄市",
+            "District": "田寮區",
+            "Price": 2000,
+            "CaseName": "house_830"
+        },
+        {
+            "City": "高雄市",
+            "District": "田寮區",
+            "Price": 3000,
+            "CaseName": "house_831"
+        }
+    ],
+    [
+        {
+            "City": "金門縣",
+            "District": "金沙鎮",
+            "Price": 1000,
+            "CaseName": "house_919"
+        },
+        {
+            "City": "金門縣",
+            "District": "金沙鎮",
+            "Price": 2000,
+            "CaseName": "house_920"
+        },
+        {
+            "City": "金門縣",
+            "District": "金沙鎮",
+            "Price": 3000,
+            "CaseName": "house_921"
+        }
+    ],
+    [
+        {
+            "City": "雲林縣",
+            "District": "麥寮鄉",
+            "Price": 1000,
+            "CaseName": "house_628"
+        },
+        {
+            "City": "雲林縣",
+            "District": "麥寮鄉",
+            "Price": 2000,
+            "CaseName": "house_629"
+        },
+        {
+            "City": "雲林縣",
+            "District": "麥寮鄉",
+            "Price": 3000,
+            "CaseName": "house_630"
+        }
+    ],
+    [
+        {
+            "City": "臺南市",
+            "District": "東區",
+            "Price": 1000,
+            "CaseName": "house_667"
+        },
+        {
+            "City": "臺南市",
+            "District": "東區",
+            "Price": 2000,
+            "CaseName": "house_668"
+        },
+        {
+            "City": "臺南市",
+            "District": "東區",
+            "Price": 3000,
+            "CaseName": "house_669"
+        }
+    ],
+    [
+        {
+            "City": "苗栗縣",
+            "District": "後龍鎮",
+            "Price": 1000,
+            "CaseName": "house_301"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "後龍鎮",
+            "Price": 2000,
+            "CaseName": "house_302"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "後龍鎮",
+            "Price": 3000,
+            "CaseName": "house_303"
+        }
+    ],
+    [],
+    [
+        {
+            "City": "苗栗縣",
+            "District": "西湖鄉",
+            "Price": 1000,
+            "CaseName": "house_334"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "西湖鄉",
+            "Price": 2000,
+            "CaseName": "house_335"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "西湖鄉",
+            "Price": 3000,
+            "CaseName": "house_336"
+        }
+    ],
+    [
+        {
+            "City": "臺中市",
+            "District": "大甲區",
+            "Price": 1000,
+            "CaseName": "house_418"
+        },
+        {
+            "City": "臺中市",
+            "District": "大甲區",
+            "Price": 2000,
+            "CaseName": "house_419"
+        },
+        {
+            "City": "臺中市",
+            "District": "大甲區",
+            "Price": 3000,
+            "CaseName": "house_420"
+        }
+    ],
+    [
+        {
+            "City": "彰化縣",
+            "District": "秀水鄉",
+            "Price": 1000,
+            "CaseName": "house_436"
+        },
+        {
+            "City": "彰化縣",
+            "District": "秀水鄉",
+            "Price": 2000,
+            "CaseName": "house_437"
+        },
+        {
+            "City": "彰化縣",
+            "District": "秀水鄉",
+            "Price": 3000,
+            "CaseName": "house_438"
+        }
+    ],
+    [
+        {
+            "City": "屏東縣",
+            "District": "滿州鄉",
+            "Price": 1000,
+            "CaseName": "house_1033"
+        },
+        {
+            "City": "屏東縣",
+            "District": "滿州鄉",
+            "Price": 2000,
+            "CaseName": "house_1034"
+        },
+        {
+            "City": "屏東縣",
+            "District": "滿州鄉",
+            "Price": 3000,
+            "CaseName": "house_1035"
+        }
+    ],
+    [
+        {
+            "City": "高雄市",
+            "District": "新興區",
+            "Price": 1000,
+            "CaseName": "house_775"
+        },
+        {
+            "City": "高雄市",
+            "District": "新興區",
+            "Price": 2000,
+            "CaseName": "house_776"
+        },
+        {
+            "City": "高雄市",
+            "District": "新興區",
+            "Price": 3000,
+            "CaseName": "house_777"
+        }
+    ],
+    [
+        {
+            "City": "宜蘭縣",
+            "District": "蘇澳鎮",
+            "Price": 1000,
+            "CaseName": "house_187"
+        },
+        {
+            "City": "宜蘭縣",
+            "District": "蘇澳鎮",
+            "Price": 2000,
+            "CaseName": "house_188"
+        },
+        {
+            "City": "宜蘭縣",
+            "District": "蘇澳鎮",
+            "Price": 3000,
+            "CaseName": "house_189"
+        }
+    ],
+    [
+        {
+            "City": "高雄市",
+            "District": "彌陀區",
+            "Price": 1000,
+            "CaseName": "house_841"
+        },
+        {
+            "City": "高雄市",
+            "District": "彌陀區",
+            "Price": 2000,
+            "CaseName": "house_842"
+        },
+        {
+            "City": "高雄市",
+            "District": "彌陀區",
+            "Price": 3000,
+            "CaseName": "house_843"
+        }
+    ],
+    [
+        {
+            "City": "屏東縣",
+            "District": "琉球鄉",
+            "Price": 1000,
+            "CaseName": "house_1003"
+        },
+        {
+            "City": "屏東縣",
+            "District": "琉球鄉",
+            "Price": 2000,
+            "CaseName": "house_1004"
+        },
+        {
+            "City": "屏東縣",
+            "District": "琉球鄉",
+            "Price": 3000,
+            "CaseName": "house_1005"
+        }
+    ],
+    [
+        {
+            "City": "桃園市",
+            "District": "桃園區",
+            "Price": 1000,
+            "CaseName": "house_265"
+        },
+        {
+            "City": "桃園市",
+            "District": "桃園區",
+            "Price": 2000,
+            "CaseName": "house_266"
+        },
+        {
+            "City": "桃園市",
+            "District": "桃園區",
+            "Price": 3000,
+            "CaseName": "house_267"
+        }
+    ],
+    [
+        {
+            "City": "苗栗縣",
+            "District": "西湖鄉",
+            "Price": 1000,
+            "CaseName": "house_334"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "西湖鄉",
+            "Price": 2000,
+            "CaseName": "house_335"
+        },
+        {
+            "City": "苗栗縣",
+            "District": "西湖鄉",
+            "Price": 3000,
+            "CaseName": "house_336"
+        }
+    ],
+    [
+        {
+            "City": "新竹縣",
+            "District": "寶山鄉",
+            "Price": 1000,
+            "CaseName": "house_208"
+        },
+        {
+            "City": "新竹縣",
+            "District": "寶山鄉",
+            "Price": 2000,
+            "CaseName": "house_209"
+        },
+        {
+            "City": "新竹縣",
+            "District": "寶山鄉",
+            "Price": 3000,
+            "CaseName": "house_210"
+        }
+    ]
+]

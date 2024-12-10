@@ -5,13 +5,42 @@ import json
 
 FILE = Path(__file__).resolve()
 ROOT = FILE.parents[1]  
+SAVE_SEARCH_LOG_FILE = True
 
 # Define path to house.json
 DATA_DIR = ROOT / 'data'
 HOUSE_FILE = DATA_DIR / 'house.json'
+SEARCH_LOG_FILE = DATA_DIR / "search_house_log.json"
 
 # Define the directory path for reservations
 RESERVATION_DIR = Path('./data/reservation')
+
+from typing import List, Dict, Any
+import json
+from pathlib import Path
+
+
+def log_search_results(results: List[Dict[str, Any]]) -> None:
+    """
+    Appends a list of search results to the search_house_log.json file.
+    
+    Args:
+        results: A list of dictionaries containing house search results.
+    """
+    # Load existing log data or initialize a new list
+    if SEARCH_LOG_FILE.exists():
+        with SEARCH_LOG_FILE.open("r", encoding="utf-8") as f:
+            log_data = json.load(f)
+    else:
+        log_data = []
+
+    # Append the new results directly
+    log_data.append(results)
+
+    # Save the updated log data back to the file
+    with SEARCH_LOG_FILE.open("w", encoding="utf-8") as f:
+        json.dump(log_data, f, ensure_ascii=False, indent=4)
+
 
 def search_house(
     city_county: str, 
@@ -38,6 +67,9 @@ def search_house(
         and house["District"] == district
         and price_lower_limit <= house["Price"] <= price_upper_limit
     ]
+
+    if SAVE_SEARCH_LOG_FILE is True:
+        log_search_results(results)
 
     return results
 

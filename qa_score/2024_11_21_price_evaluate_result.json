@@ -1,0 +1,1709 @@
+{
+    "total_questions": 100,
+    "correct_count": 100,
+    "incorrect_count": 0,
+    "accuracy": 100.0,
+    "correct_questions": {
+        "Q1": {
+            "question": "我要找房屋，地點在新北市 石碇區  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "新北市",
+                    "District": "石碇區",
+                    "Price": 1000,
+                    "CaseName": "house_73"
+                },
+                {
+                    "City": "新北市",
+                    "District": "石碇區",
+                    "Price": 2000,
+                    "CaseName": "house_74"
+                }
+            ]
+        },
+        "Q2": {
+            "question": "我要找房子，處在屏東縣 佳冬鄉  大約900到2900之間。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "佳冬鄉",
+                    "Price": 1000,
+                    "CaseName": "house_1006"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "佳冬鄉",
+                    "Price": 2000,
+                    "CaseName": "house_1007"
+                }
+            ]
+        },
+        "Q3": {
+            "question": "找家，地點在連江縣 南竿鄉  900~2900。",
+            "answer": [
+                {
+                    "City": "連江縣",
+                    "District": "南竿鄉",
+                    "Price": 1000,
+                    "CaseName": "house_145"
+                },
+                {
+                    "City": "連江縣",
+                    "District": "南竿鄉",
+                    "Price": 2000,
+                    "CaseName": "house_146"
+                }
+            ]
+        },
+        "Q4": {
+            "question": "找不動產，地點在彰化縣 大城鄉  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "彰化縣",
+                    "District": "大城鄉",
+                    "Price": 1000,
+                    "CaseName": "house_496"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "大城鄉",
+                    "Price": 2000,
+                    "CaseName": "house_497"
+                }
+            ]
+        },
+        "Q5": {
+            "question": "我要找房屋，位於新北市 平溪區  九百萬至兩千多萬之間。",
+            "answer": [
+                {
+                    "City": "新北市",
+                    "District": "平溪區",
+                    "Price": 1000,
+                    "CaseName": "house_79"
+                },
+                {
+                    "City": "新北市",
+                    "District": "平溪區",
+                    "Price": 2000,
+                    "CaseName": "house_80"
+                }
+            ]
+        },
+        "Q6": {
+            "question": "看家，處在屏東縣 崁頂鄉  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "崁頂鄉",
+                    "Price": 1000,
+                    "CaseName": "house_988"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "崁頂鄉",
+                    "Price": 2000,
+                    "CaseName": "house_989"
+                }
+            ]
+        },
+        "Q7": {
+            "question": "找房屋，坐落臺南市 左鎮區  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "左鎮區",
+                    "Price": 1000,
+                    "CaseName": "house_691"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "左鎮區",
+                    "Price": 2000,
+                    "CaseName": "house_692"
+                }
+            ]
+        },
+        "Q8": {
+            "question": "我要找房子，地點在苗栗縣 南庄鄉  大約900到2900之間。",
+            "answer": [
+                {
+                    "City": "苗栗縣",
+                    "District": "南庄鄉",
+                    "Price": 1000,
+                    "CaseName": "house_295"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "南庄鄉",
+                    "Price": 2000,
+                    "CaseName": "house_296"
+                }
+            ]
+        },
+        "Q9": {
+            "question": "找屋，坐落臺南市 佳里區  九百萬至兩千多萬之間。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "佳里區",
+                    "Price": 1000,
+                    "CaseName": "house_718"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "佳里區",
+                    "Price": 2000,
+                    "CaseName": "house_719"
+                }
+            ]
+        },
+        "Q10": {
+            "question": "有沒有不動產，坐落嘉義縣 大林鎮  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "嘉義縣",
+                    "District": "大林鎮",
+                    "Price": 1000,
+                    "CaseName": "house_592"
+                },
+                {
+                    "City": "嘉義縣",
+                    "District": "大林鎮",
+                    "Price": 2000,
+                    "CaseName": "house_593"
+                }
+            ]
+        },
+        "Q11": {
+            "question": "看家，地點在新竹縣 竹北市  九百萬至兩千多萬之間。",
+            "answer": [
+                {
+                    "City": "新竹縣",
+                    "District": "竹北市",
+                    "Price": 1000,
+                    "CaseName": "house_211"
+                },
+                {
+                    "City": "新竹縣",
+                    "District": "竹北市",
+                    "Price": 2000,
+                    "CaseName": "house_212"
+                }
+            ]
+        },
+        "Q12": {
+            "question": "我要找房子，位於花蓮縣 卓溪鄉  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "花蓮縣",
+                    "District": "卓溪鄉",
+                    "Price": 1000,
+                    "CaseName": "house_1117"
+                },
+                {
+                    "City": "花蓮縣",
+                    "District": "卓溪鄉",
+                    "Price": 2000,
+                    "CaseName": "house_1118"
+                }
+            ]
+        },
+        "Q13": {
+            "question": "看不動產，坐落臺南市 善化區  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "善化區",
+                    "Price": 1000,
+                    "CaseName": "house_760"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "善化區",
+                    "Price": 2000,
+                    "CaseName": "house_761"
+                }
+            ]
+        },
+        "Q14": {
+            "question": "找房子，坐落臺中市 南區  大約900到2900之間。",
+            "answer": [
+                {
+                    "City": "臺中市",
+                    "District": "南區",
+                    "Price": 1000,
+                    "CaseName": "house_346"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "南區",
+                    "Price": 2000,
+                    "CaseName": "house_347"
+                }
+            ]
+        },
+        "Q15": {
+            "question": "我要找房屋，坐落嘉義縣 溪口鄉  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "嘉義縣",
+                    "District": "溪口鄉",
+                    "Price": 1000,
+                    "CaseName": "house_595"
+                },
+                {
+                    "City": "嘉義縣",
+                    "District": "溪口鄉",
+                    "Price": 2000,
+                    "CaseName": "house_596"
+                }
+            ]
+        },
+        "Q16": {
+            "question": "查詢房屋，位於彰化縣 二水鄉  大約900到2900之間。",
+            "answer": [
+                {
+                    "City": "彰化縣",
+                    "District": "二水鄉",
+                    "Price": 1000,
+                    "CaseName": "house_502"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "二水鄉",
+                    "Price": 2000,
+                    "CaseName": "house_503"
+                }
+            ]
+        },
+        "Q17": {
+            "question": "看房屋，地點在連江縣 莒光鄉  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "連江縣",
+                    "District": "莒光鄉",
+                    "Price": 1000,
+                    "CaseName": "house_151"
+                },
+                {
+                    "City": "連江縣",
+                    "District": "莒光鄉",
+                    "Price": 2000,
+                    "CaseName": "house_152"
+                }
+            ]
+        },
+        "Q18": {
+            "question": "有沒有房屋，位於臺南市 東山區  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "東山區",
+                    "Price": 1000,
+                    "CaseName": "house_745"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "東山區",
+                    "Price": 2000,
+                    "CaseName": "house_746"
+                }
+            ]
+        },
+        "Q19": {
+            "question": "查詢家，地點在屏東縣 潮州鎮  大約900到2900之間。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "潮州鎮",
+                    "Price": 1000,
+                    "CaseName": "house_976"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "潮州鎮",
+                    "Price": 2000,
+                    "CaseName": "house_977"
+                }
+            ]
+        },
+        "Q20": {
+            "question": "看屋子，位於高雄市 小港區  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "小港區",
+                    "Price": 1000,
+                    "CaseName": "house_802"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "小港區",
+                    "Price": 2000,
+                    "CaseName": "house_803"
+                }
+            ]
+        },
+        "Q21": {
+            "question": "找家，處在高雄市 茄萣區  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "茄萣區",
+                    "Price": 1000,
+                    "CaseName": "house_892"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "茄萣區",
+                    "Price": 2000,
+                    "CaseName": "house_893"
+                }
+            ]
+        },
+        "Q22": {
+            "question": "有沒有房屋，處在高雄市 大社區  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "大社區",
+                    "Price": 1000,
+                    "CaseName": "house_811"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "大社區",
+                    "Price": 2000,
+                    "CaseName": "house_812"
+                }
+            ]
+        },
+        "Q23": {
+            "question": "有沒有不動產，坐落高雄市 南沙群島  900~2900。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "南沙群島",
+                    "Price": 1000,
+                    "CaseName": "house_817"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "南沙群島",
+                    "Price": 2000,
+                    "CaseName": "house_818"
+                }
+            ]
+        },
+        "Q24": {
+            "question": "有沒有不動產，位於屏東縣 崁頂鄉  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "崁頂鄉",
+                    "Price": 1000,
+                    "CaseName": "house_988"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "崁頂鄉",
+                    "Price": 2000,
+                    "CaseName": "house_989"
+                }
+            ]
+        },
+        "Q25": {
+            "question": "我要找房屋，坐落雲林縣 林內鄉  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "雲林縣",
+                    "District": "林內鄉",
+                    "Price": 1000,
+                    "CaseName": "house_634"
+                },
+                {
+                    "City": "雲林縣",
+                    "District": "林內鄉",
+                    "Price": 2000,
+                    "CaseName": "house_635"
+                }
+            ]
+        },
+        "Q26": {
+            "question": "查詢屋，坐落臺南市 麻豆區  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "麻豆區",
+                    "Price": 1000,
+                    "CaseName": "house_715"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "麻豆區",
+                    "Price": 2000,
+                    "CaseName": "house_716"
+                }
+            ]
+        },
+        "Q27": {
+            "question": "看屋子，位於屏東縣 崁頂鄉  九百萬至兩千多萬之間。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "崁頂鄉",
+                    "Price": 1000,
+                    "CaseName": "house_988"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "崁頂鄉",
+                    "Price": 2000,
+                    "CaseName": "house_989"
+                }
+            ]
+        },
+        "Q28": {
+            "question": "我想查看屋子，位於高雄市 大樹區  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "大樹區",
+                    "Price": 1000,
+                    "CaseName": "house_862"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "大樹區",
+                    "Price": 2000,
+                    "CaseName": "house_863"
+                }
+            ]
+        },
+        "Q29": {
+            "question": "我要找屋子，處在新北市 石門區  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "新北市",
+                    "District": "石門區",
+                    "Price": 1000,
+                    "CaseName": "house_142"
+                },
+                {
+                    "City": "新北市",
+                    "District": "石門區",
+                    "Price": 2000,
+                    "CaseName": "house_143"
+                }
+            ]
+        },
+        "Q30": {
+            "question": "我想查看房屋，坐落臺北市 內湖區  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "臺北市",
+                    "District": "內湖區",
+                    "Price": 1000,
+                    "CaseName": "house_28"
+                },
+                {
+                    "City": "臺北市",
+                    "District": "內湖區",
+                    "Price": 2000,
+                    "CaseName": "house_29"
+                }
+            ]
+        },
+        "Q31": {
+            "question": "看屋子，坐落新竹縣 關西鎮  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "新竹縣",
+                    "District": "關西鎮",
+                    "Price": 1000,
+                    "CaseName": "house_223"
+                },
+                {
+                    "City": "新竹縣",
+                    "District": "關西鎮",
+                    "Price": 2000,
+                    "CaseName": "house_224"
+                }
+            ]
+        },
+        "Q32": {
+            "question": "查詢屋，坐落臺北市 中正區  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "臺北市",
+                    "District": "中正區",
+                    "Price": 1000,
+                    "CaseName": "house_1"
+                },
+                {
+                    "City": "臺北市",
+                    "District": "中正區",
+                    "Price": 2000,
+                    "CaseName": "house_2"
+                }
+            ]
+        },
+        "Q33": {
+            "question": "有沒有屋，坐落高雄市 前鎮區  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "前鎮區",
+                    "Price": 1000,
+                    "CaseName": "house_793"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "前鎮區",
+                    "Price": 2000,
+                    "CaseName": "house_794"
+                }
+            ]
+        },
+        "Q34": {
+            "question": "有沒有不動產，地點在雲林縣 虎尾鎮  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "雲林縣",
+                    "District": "虎尾鎮",
+                    "Price": 1000,
+                    "CaseName": "house_610"
+                },
+                {
+                    "City": "雲林縣",
+                    "District": "虎尾鎮",
+                    "Price": 2000,
+                    "CaseName": "house_611"
+                }
+            ]
+        },
+        "Q35": {
+            "question": "我想查看屋子，處在彰化縣 二水鄉  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "彰化縣",
+                    "District": "二水鄉",
+                    "Price": 1000,
+                    "CaseName": "house_502"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "二水鄉",
+                    "Price": 2000,
+                    "CaseName": "house_503"
+                }
+            ]
+        },
+        "Q36": {
+            "question": "找房屋，位於嘉義縣 朴子市  大約900到2900之間。",
+            "answer": [
+                {
+                    "City": "嘉義縣",
+                    "District": "朴子市",
+                    "Price": 1000,
+                    "CaseName": "house_577"
+                },
+                {
+                    "City": "嘉義縣",
+                    "District": "朴子市",
+                    "Price": 2000,
+                    "CaseName": "house_578"
+                }
+            ]
+        },
+        "Q37": {
+            "question": "我要找家，處在臺南市 永康區  900~2900。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "永康區",
+                    "Price": 1000,
+                    "CaseName": "house_682"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "永康區",
+                    "Price": 2000,
+                    "CaseName": "house_683"
+                }
+            ]
+        },
+        "Q38": {
+            "question": "我想查看不動產，坐落臺南市 麻豆區  九百萬至兩千多萬之間。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "麻豆區",
+                    "Price": 1000,
+                    "CaseName": "house_715"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "麻豆區",
+                    "Price": 2000,
+                    "CaseName": "house_716"
+                }
+            ]
+        },
+        "Q39": {
+            "question": "查詢房屋，位於新竹縣 竹北市  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "新竹縣",
+                    "District": "竹北市",
+                    "Price": 1000,
+                    "CaseName": "house_211"
+                },
+                {
+                    "City": "新竹縣",
+                    "District": "竹北市",
+                    "Price": 2000,
+                    "CaseName": "house_212"
+                }
+            ]
+        },
+        "Q40": {
+            "question": "查詢屋子，位於南投縣 魚池鄉  大約900到2900之間。",
+            "answer": [
+                {
+                    "City": "南投縣",
+                    "District": "魚池鄉",
+                    "Price": 1000,
+                    "CaseName": "house_532"
+                },
+                {
+                    "City": "南投縣",
+                    "District": "魚池鄉",
+                    "Price": 2000,
+                    "CaseName": "house_533"
+                }
+            ]
+        },
+        "Q41": {
+            "question": "我想查看屋，位於高雄市 左營區  九百萬至兩千多萬之間。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "左營區",
+                    "Price": 1000,
+                    "CaseName": "house_805"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "左營區",
+                    "Price": 2000,
+                    "CaseName": "house_806"
+                }
+            ]
+        },
+        "Q42": {
+            "question": "我要找房屋，地點在雲林縣 臺西鄉  900~2900。",
+            "answer": [
+                {
+                    "City": "雲林縣",
+                    "District": "臺西鄉",
+                    "Price": 1000,
+                    "CaseName": "house_622"
+                },
+                {
+                    "City": "雲林縣",
+                    "District": "臺西鄉",
+                    "Price": 2000,
+                    "CaseName": "house_623"
+                }
+            ]
+        },
+        "Q43": {
+            "question": "看不動產，位於桃園市 大溪區  九百萬至兩千多萬之間。",
+            "answer": [
+                {
+                    "City": "桃園市",
+                    "District": "大溪區",
+                    "Price": 1000,
+                    "CaseName": "house_274"
+                },
+                {
+                    "City": "桃園市",
+                    "District": "大溪區",
+                    "Price": 2000,
+                    "CaseName": "house_275"
+                }
+            ]
+        },
+        "Q44": {
+            "question": "有沒有房屋，地點在新北市 三芝區  900~2900。",
+            "answer": [
+                {
+                    "City": "新北市",
+                    "District": "三芝區",
+                    "Price": 1000,
+                    "CaseName": "house_139"
+                },
+                {
+                    "City": "新北市",
+                    "District": "三芝區",
+                    "Price": 2000,
+                    "CaseName": "house_140"
+                }
+            ]
+        },
+        "Q45": {
+            "question": "我要找不動產，地點在新北市 土城區  900~2900。",
+            "answer": [
+                {
+                    "City": "新北市",
+                    "District": "土城區",
+                    "Price": 1000,
+                    "CaseName": "house_103"
+                },
+                {
+                    "City": "新北市",
+                    "District": "土城區",
+                    "Price": 2000,
+                    "CaseName": "house_104"
+                }
+            ]
+        },
+        "Q46": {
+            "question": "找屋，處在新北市 中和區  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "新北市",
+                    "District": "中和區",
+                    "Price": 1000,
+                    "CaseName": "house_100"
+                },
+                {
+                    "City": "新北市",
+                    "District": "中和區",
+                    "Price": 2000,
+                    "CaseName": "house_101"
+                }
+            ]
+        },
+        "Q47": {
+            "question": "我要找家，地點在苗栗縣 西湖鄉  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "苗栗縣",
+                    "District": "西湖鄉",
+                    "Price": 1000,
+                    "CaseName": "house_334"
+                },
+                {
+                    "City": "苗栗縣",
+                    "District": "西湖鄉",
+                    "Price": 2000,
+                    "CaseName": "house_335"
+                }
+            ]
+        },
+        "Q48": {
+            "question": "找家，坐落彰化縣 北斗鎮  900~2900。",
+            "answer": [
+                {
+                    "City": "彰化縣",
+                    "District": "北斗鎮",
+                    "Price": 1000,
+                    "CaseName": "house_478"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "北斗鎮",
+                    "Price": 2000,
+                    "CaseName": "house_479"
+                }
+            ]
+        },
+        "Q49": {
+            "question": "我要找不動產，地點在臺東縣 成功鎮  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "臺東縣",
+                    "District": "成功鎮",
+                    "Price": 1000,
+                    "CaseName": "house_1066"
+                },
+                {
+                    "City": "臺東縣",
+                    "District": "成功鎮",
+                    "Price": 2000,
+                    "CaseName": "house_1067"
+                }
+            ]
+        },
+        "Q50": {
+            "question": "我要找屋子，地點在彰化縣 二水鄉  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "彰化縣",
+                    "District": "二水鄉",
+                    "Price": 1000,
+                    "CaseName": "house_502"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "二水鄉",
+                    "Price": 2000,
+                    "CaseName": "house_503"
+                }
+            ]
+        },
+        "Q51": {
+            "question": "我想查看不動產，坐落高雄市 那瑪夏區  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "那瑪夏區",
+                    "Price": 1000,
+                    "CaseName": "house_886"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "那瑪夏區",
+                    "Price": 2000,
+                    "CaseName": "house_887"
+                }
+            ]
+        },
+        "Q52": {
+            "question": "有沒有屋子，位於桃園市 新屋區  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "桃園市",
+                    "District": "新屋區",
+                    "Price": 1000,
+                    "CaseName": "house_259"
+                },
+                {
+                    "City": "桃園市",
+                    "District": "新屋區",
+                    "Price": 2000,
+                    "CaseName": "house_260"
+                }
+            ]
+        },
+        "Q53": {
+            "question": "我要找不動產，坐落臺北市 萬華區  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "臺北市",
+                    "District": "萬華區",
+                    "Price": 1000,
+                    "CaseName": "house_16"
+                },
+                {
+                    "City": "臺北市",
+                    "District": "萬華區",
+                    "Price": 2000,
+                    "CaseName": "house_17"
+                }
+            ]
+        },
+        "Q54": {
+            "question": "我想查看家，處在屏東縣 恆春鎮  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "恆春鎮",
+                    "Price": 1000,
+                    "CaseName": "house_1030"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "恆春鎮",
+                    "Price": 2000,
+                    "CaseName": "house_1031"
+                }
+            ]
+        },
+        "Q55": {
+            "question": "找房屋，坐落基隆市 中正區  大約900到2900之間。",
+            "answer": [
+                {
+                    "City": "基隆市",
+                    "District": "中正區",
+                    "Price": 1000,
+                    "CaseName": "house_43"
+                },
+                {
+                    "City": "基隆市",
+                    "District": "中正區",
+                    "Price": 2000,
+                    "CaseName": "house_44"
+                }
+            ]
+        },
+        "Q56": {
+            "question": "我要找屋，處在南投縣 仁愛鄉  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "南投縣",
+                    "District": "仁愛鄉",
+                    "Price": 1000,
+                    "CaseName": "house_520"
+                },
+                {
+                    "City": "南投縣",
+                    "District": "仁愛鄉",
+                    "Price": 2000,
+                    "CaseName": "house_521"
+                }
+            ]
+        },
+        "Q57": {
+            "question": "有沒有房屋，處在宜蘭縣 礁溪鄉  900~2900。",
+            "answer": [
+                {
+                    "City": "宜蘭縣",
+                    "District": "礁溪鄉",
+                    "Price": 1000,
+                    "CaseName": "house_166"
+                },
+                {
+                    "City": "宜蘭縣",
+                    "District": "礁溪鄉",
+                    "Price": 2000,
+                    "CaseName": "house_167"
+                }
+            ]
+        },
+        "Q58": {
+            "question": "找房屋，地點在臺中市 沙鹿區  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "臺中市",
+                    "District": "沙鹿區",
+                    "Price": 1000,
+                    "CaseName": "house_406"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "沙鹿區",
+                    "Price": 2000,
+                    "CaseName": "house_407"
+                }
+            ]
+        },
+        "Q59": {
+            "question": "我想查看房屋，處在臺南市 麻豆區  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "麻豆區",
+                    "Price": 1000,
+                    "CaseName": "house_715"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "麻豆區",
+                    "Price": 2000,
+                    "CaseName": "house_716"
+                }
+            ]
+        },
+        "Q60": {
+            "question": "找家，處在高雄市 橋頭區  九百萬至兩千多萬之間。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "橋頭區",
+                    "Price": 1000,
+                    "CaseName": "house_835"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "橋頭區",
+                    "Price": 2000,
+                    "CaseName": "house_836"
+                }
+            ]
+        },
+        "Q61": {
+            "question": "查詢房屋，坐落高雄市 阿蓮區  大約900到2900之間。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "阿蓮區",
+                    "Price": 1000,
+                    "CaseName": "house_826"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "阿蓮區",
+                    "Price": 2000,
+                    "CaseName": "house_827"
+                }
+            ]
+        },
+        "Q62": {
+            "question": "我想查看屋，地點在花蓮縣 光復鄉  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "花蓮縣",
+                    "District": "光復鄉",
+                    "Price": 1000,
+                    "CaseName": "house_1102"
+                },
+                {
+                    "City": "花蓮縣",
+                    "District": "光復鄉",
+                    "Price": 2000,
+                    "CaseName": "house_1103"
+                }
+            ]
+        },
+        "Q63": {
+            "question": "我想查看屋，處在屏東縣 竹田鄉  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "竹田鄉",
+                    "Price": 1000,
+                    "CaseName": "house_967"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "竹田鄉",
+                    "Price": 2000,
+                    "CaseName": "house_968"
+                }
+            ]
+        },
+        "Q64": {
+            "question": "找家，位於高雄市 三民區  九百萬至兩千多萬之間。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "三民區",
+                    "Price": 1000,
+                    "CaseName": "house_796"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "三民區",
+                    "Price": 2000,
+                    "CaseName": "house_797"
+                }
+            ]
+        },
+        "Q65": {
+            "question": "我想查看不動產，位於臺中市 北屯區  900~2900。",
+            "answer": [
+                {
+                    "City": "臺中市",
+                    "District": "北屯區",
+                    "Price": 1000,
+                    "CaseName": "house_355"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "北屯區",
+                    "Price": 2000,
+                    "CaseName": "house_356"
+                }
+            ]
+        },
+        "Q66": {
+            "question": "我要找屋，處在高雄市 苓雅區  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "苓雅區",
+                    "Price": 1000,
+                    "CaseName": "house_781"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "苓雅區",
+                    "Price": 2000,
+                    "CaseName": "house_782"
+                }
+            ]
+        },
+        "Q67": {
+            "question": "找家，地點在臺南市 中西區  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "中西區",
+                    "Price": 1000,
+                    "CaseName": "house_664"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "中西區",
+                    "Price": 2000,
+                    "CaseName": "house_665"
+                }
+            ]
+        },
+        "Q68": {
+            "question": "查詢屋，地點在屏東縣 鹽埔鄉  九百萬至兩千多萬之間。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "鹽埔鄉",
+                    "Price": 1000,
+                    "CaseName": "house_958"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "鹽埔鄉",
+                    "Price": 2000,
+                    "CaseName": "house_959"
+                }
+            ]
+        },
+        "Q69": {
+            "question": "查詢不動產，坐落屏東縣 枋山鄉  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "枋山鄉",
+                    "Price": 1000,
+                    "CaseName": "house_1015"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "枋山鄉",
+                    "Price": 2000,
+                    "CaseName": "house_1016"
+                }
+            ]
+        },
+        "Q70": {
+            "question": "看家，地點在新竹縣 關西鎮  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "新竹縣",
+                    "District": "關西鎮",
+                    "Price": 1000,
+                    "CaseName": "house_223"
+                },
+                {
+                    "City": "新竹縣",
+                    "District": "關西鎮",
+                    "Price": 2000,
+                    "CaseName": "house_224"
+                }
+            ]
+        },
+        "Q71": {
+            "question": "看屋子，地點在臺中市 清水區  大約900到2900之間。",
+            "answer": [
+                {
+                    "City": "臺中市",
+                    "District": "清水區",
+                    "Price": 1000,
+                    "CaseName": "house_415"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "清水區",
+                    "Price": 2000,
+                    "CaseName": "house_416"
+                }
+            ]
+        },
+        "Q72": {
+            "question": "找家，坐落南投縣 埔里鎮  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "南投縣",
+                    "District": "埔里鎮",
+                    "Price": 1000,
+                    "CaseName": "house_517"
+                },
+                {
+                    "City": "南投縣",
+                    "District": "埔里鎮",
+                    "Price": 2000,
+                    "CaseName": "house_518"
+                }
+            ]
+        },
+        "Q73": {
+            "question": "查詢屋子，地點在彰化縣 彰化市  大約900到2900之間。",
+            "answer": [
+                {
+                    "City": "彰化縣",
+                    "District": "彰化市",
+                    "Price": 1000,
+                    "CaseName": "house_427"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "彰化市",
+                    "Price": 2000,
+                    "CaseName": "house_428"
+                }
+            ]
+        },
+        "Q74": {
+            "question": "找屋，坐落彰化縣 秀水鄉  大約900到2900之間。",
+            "answer": [
+                {
+                    "City": "彰化縣",
+                    "District": "秀水鄉",
+                    "Price": 1000,
+                    "CaseName": "house_436"
+                },
+                {
+                    "City": "彰化縣",
+                    "District": "秀水鄉",
+                    "Price": 2000,
+                    "CaseName": "house_437"
+                }
+            ]
+        },
+        "Q75": {
+            "question": "找房屋，坐落嘉義縣 溪口鄉  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "嘉義縣",
+                    "District": "溪口鄉",
+                    "Price": 1000,
+                    "CaseName": "house_595"
+                },
+                {
+                    "City": "嘉義縣",
+                    "District": "溪口鄉",
+                    "Price": 2000,
+                    "CaseName": "house_596"
+                }
+            ]
+        },
+        "Q76": {
+            "question": "找房屋，位於新竹縣 關西鎮  九百萬至兩千多萬之間。",
+            "answer": [
+                {
+                    "City": "新竹縣",
+                    "District": "關西鎮",
+                    "Price": 1000,
+                    "CaseName": "house_223"
+                },
+                {
+                    "City": "新竹縣",
+                    "District": "關西鎮",
+                    "Price": 2000,
+                    "CaseName": "house_224"
+                }
+            ]
+        },
+        "Q77": {
+            "question": "看房屋，位於新竹縣 橫山鄉  大約900到2900之間。",
+            "answer": [
+                {
+                    "City": "新竹縣",
+                    "District": "橫山鄉",
+                    "Price": 1000,
+                    "CaseName": "house_235"
+                },
+                {
+                    "City": "新竹縣",
+                    "District": "橫山鄉",
+                    "Price": 2000,
+                    "CaseName": "house_236"
+                }
+            ]
+        },
+        "Q78": {
+            "question": "有沒有屋，地點在新竹縣 北埔鄉  900~2900。",
+            "answer": [
+                {
+                    "City": "新竹縣",
+                    "District": "北埔鄉",
+                    "Price": 1000,
+                    "CaseName": "house_241"
+                },
+                {
+                    "City": "新竹縣",
+                    "District": "北埔鄉",
+                    "Price": 2000,
+                    "CaseName": "house_242"
+                }
+            ]
+        },
+        "Q79": {
+            "question": "查詢屋，坐落嘉義市 東區  大約900到2900之間。",
+            "answer": [
+                {
+                    "City": "嘉義市",
+                    "District": "東區",
+                    "Price": 1000,
+                    "CaseName": "house_547"
+                },
+                {
+                    "City": "嘉義市",
+                    "District": "東區",
+                    "Price": 2000,
+                    "CaseName": "house_548"
+                }
+            ]
+        },
+        "Q80": {
+            "question": "我要找不動產，坐落臺南市 後壁區  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "後壁區",
+                    "Price": 1000,
+                    "CaseName": "house_739"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "後壁區",
+                    "Price": 2000,
+                    "CaseName": "house_740"
+                }
+            ]
+        },
+        "Q81": {
+            "question": "我想查看屋子，地點在新北市 新店區  九百萬至兩千多萬之間。",
+            "answer": [
+                {
+                    "City": "新北市",
+                    "District": "新店區",
+                    "Price": 1000,
+                    "CaseName": "house_88"
+                },
+                {
+                    "City": "新北市",
+                    "District": "新店區",
+                    "Price": 2000,
+                    "CaseName": "house_89"
+                }
+            ]
+        },
+        "Q82": {
+            "question": "看屋子，坐落雲林縣 褒忠鄉  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "雲林縣",
+                    "District": "褒忠鄉",
+                    "Price": 1000,
+                    "CaseName": "house_616"
+                },
+                {
+                    "City": "雲林縣",
+                    "District": "褒忠鄉",
+                    "Price": 2000,
+                    "CaseName": "house_617"
+                }
+            ]
+        },
+        "Q83": {
+            "question": "查詢屋子，地點在花蓮縣 卓溪鄉  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "花蓮縣",
+                    "District": "卓溪鄉",
+                    "Price": 1000,
+                    "CaseName": "house_1117"
+                },
+                {
+                    "City": "花蓮縣",
+                    "District": "卓溪鄉",
+                    "Price": 2000,
+                    "CaseName": "house_1118"
+                }
+            ]
+        },
+        "Q84": {
+            "question": "我想查看房子，位於臺南市 東山區  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "東山區",
+                    "Price": 1000,
+                    "CaseName": "house_745"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "東山區",
+                    "Price": 2000,
+                    "CaseName": "house_746"
+                }
+            ]
+        },
+        "Q85": {
+            "question": "查詢房子，地點在屏東縣 滿州鄉  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "滿州鄉",
+                    "Price": 1000,
+                    "CaseName": "house_1033"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "滿州鄉",
+                    "Price": 2000,
+                    "CaseName": "house_1034"
+                }
+            ]
+        },
+        "Q86": {
+            "question": "看家，處在臺中市 北屯區  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "臺中市",
+                    "District": "北屯區",
+                    "Price": 1000,
+                    "CaseName": "house_355"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "北屯區",
+                    "Price": 2000,
+                    "CaseName": "house_356"
+                }
+            ]
+        },
+        "Q87": {
+            "question": "我想查看房子，坐落新竹市 香山區  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "新竹市",
+                    "District": "香山區",
+                    "Price": 1000,
+                    "CaseName": "house_205"
+                },
+                {
+                    "City": "新竹市",
+                    "District": "香山區",
+                    "Price": 2000,
+                    "CaseName": "house_206"
+                }
+            ]
+        },
+        "Q88": {
+            "question": "我要找家，處在嘉義縣 梅山鄉  大約900到2900之間。",
+            "answer": [
+                {
+                    "City": "嘉義縣",
+                    "District": "梅山鄉",
+                    "Price": 1000,
+                    "CaseName": "house_553"
+                },
+                {
+                    "City": "嘉義縣",
+                    "District": "梅山鄉",
+                    "Price": 2000,
+                    "CaseName": "house_554"
+                }
+            ]
+        },
+        "Q89": {
+            "question": "有沒有房子，坐落基隆市 暖暖區  大約900到2900之間。",
+            "answer": [
+                {
+                    "City": "基隆市",
+                    "District": "暖暖區",
+                    "Price": 1000,
+                    "CaseName": "house_52"
+                },
+                {
+                    "City": "基隆市",
+                    "District": "暖暖區",
+                    "Price": 2000,
+                    "CaseName": "house_53"
+                }
+            ]
+        },
+        "Q90": {
+            "question": "我要找屋子，坐落屏東縣 長治鄉  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "長治鄉",
+                    "Price": 1000,
+                    "CaseName": "house_961"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "長治鄉",
+                    "Price": 2000,
+                    "CaseName": "house_962"
+                }
+            ]
+        },
+        "Q91": {
+            "question": "我要找屋，位於臺南市 將軍區  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "將軍區",
+                    "Price": 1000,
+                    "CaseName": "house_727"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "將軍區",
+                    "Price": 2000,
+                    "CaseName": "house_728"
+                }
+            ]
+        },
+        "Q92": {
+            "question": "我想查看屋子，處在臺中市 后里區  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "臺中市",
+                    "District": "后里區",
+                    "Price": 1000,
+                    "CaseName": "house_379"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "后里區",
+                    "Price": 2000,
+                    "CaseName": "house_380"
+                }
+            ]
+        },
+        "Q93": {
+            "question": "查詢房子，位於屏東縣 牡丹鄉  900~2900。",
+            "answer": [
+                {
+                    "City": "屏東縣",
+                    "District": "牡丹鄉",
+                    "Price": 1000,
+                    "CaseName": "house_1027"
+                },
+                {
+                    "City": "屏東縣",
+                    "District": "牡丹鄉",
+                    "Price": 2000,
+                    "CaseName": "house_1028"
+                }
+            ]
+        },
+        "Q94": {
+            "question": "看不動產，位於臺南市 新市區  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "臺南市",
+                    "District": "新市區",
+                    "Price": 1000,
+                    "CaseName": "house_763"
+                },
+                {
+                    "City": "臺南市",
+                    "District": "新市區",
+                    "Price": 2000,
+                    "CaseName": "house_764"
+                }
+            ]
+        },
+        "Q95": {
+            "question": "看家，位於高雄市 彌陀區  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "高雄市",
+                    "District": "彌陀區",
+                    "Price": 1000,
+                    "CaseName": "house_841"
+                },
+                {
+                    "City": "高雄市",
+                    "District": "彌陀區",
+                    "Price": 2000,
+                    "CaseName": "house_842"
+                }
+            ]
+        },
+        "Q96": {
+            "question": "找房屋，地點在南投縣 南投市  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "南投縣",
+                    "District": "南投市",
+                    "Price": 1000,
+                    "CaseName": "house_505"
+                },
+                {
+                    "City": "南投縣",
+                    "District": "南投市",
+                    "Price": 2000,
+                    "CaseName": "house_506"
+                }
+            ]
+        },
+        "Q97": {
+            "question": "我想查看房子，地點在新竹市 香山區  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "新竹市",
+                    "District": "香山區",
+                    "Price": 1000,
+                    "CaseName": "house_205"
+                },
+                {
+                    "City": "新竹市",
+                    "District": "香山區",
+                    "Price": 2000,
+                    "CaseName": "house_206"
+                }
+            ]
+        },
+        "Q98": {
+            "question": "我想查看房屋，位於新北市 中和區  9000000 ~ 29000000。",
+            "answer": [
+                {
+                    "City": "新北市",
+                    "District": "中和區",
+                    "Price": 1000,
+                    "CaseName": "house_100"
+                },
+                {
+                    "City": "新北市",
+                    "District": "中和區",
+                    "Price": 2000,
+                    "CaseName": "house_101"
+                }
+            ]
+        },
+        "Q99": {
+            "question": "我想查看不動產，處在花蓮縣 光復鄉  價格落在 900萬以上 2900萬以下。",
+            "answer": [
+                {
+                    "City": "花蓮縣",
+                    "District": "光復鄉",
+                    "Price": 1000,
+                    "CaseName": "house_1102"
+                },
+                {
+                    "City": "花蓮縣",
+                    "District": "光復鄉",
+                    "Price": 2000,
+                    "CaseName": "house_1103"
+                }
+            ]
+        },
+        "Q100": {
+            "question": "有沒有房屋，坐落臺中市 南區  九百之上 兩千之內。",
+            "answer": [
+                {
+                    "City": "臺中市",
+                    "District": "南區",
+                    "Price": 1000,
+                    "CaseName": "house_346"
+                },
+                {
+                    "City": "臺中市",
+                    "District": "南區",
+                    "Price": 2000,
+                    "CaseName": "house_347"
+                }
+            ]
+        }
+    },
+    "incorrect_questions": {}
+}

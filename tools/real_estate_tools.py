@@ -43,10 +43,11 @@ class RealEstateSearchInput(BaseModel):
     )
 
 class RealEstateSearchTool(BaseTool):
-    name: str = 'search_house'  # 確保這裡有類型註釋
-    description: str = "這是一個幫助使用者找到屬於自己想要的房屋資訊的程式。"  # 提供類型註釋
+    name: str = 'search_house'  # 確保這裡有類型註釋 
+    description: str = "這是一個幫助使用者找到屬於自己想要的房屋資訊的程式。 (請不要詢問區域與價格以外的條件，台灣地區皆屬範圍內)"  # 提供類型註釋 
 
     args_schema: Type[BaseModel] = RealEstateSearchInput
+    
 
     def _run(self, city_county: str, district: str = None, price_upper_limit: Optional[int] = None, price_lower_limit: Optional[int] = None):
         target = search_house(city_county, district, price_upper_limit, price_lower_limit)
